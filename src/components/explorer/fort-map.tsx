@@ -98,7 +98,7 @@ export function FortMap({
       maxZoom={18}
       zoomControl={false}
       scrollWheelZoom
-      className="h-full w-full"
+      className="explorer-map h-full w-full"
     >
       <MapA11yLabel label={label} />
       <LayersControl position="topright">

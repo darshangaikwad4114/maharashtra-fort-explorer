@@ -217,13 +217,19 @@ html[data-locale="mr"] .font-display {
   background: var(--color-parchment) !important;
   color: var(--color-ink) !important;
   border-bottom-color: var(--color-line) !important;
-  width: 34px !important;
-  height: 34px !important;
-  line-height: 34px !important;
+  width: 44px !important;
+  height: 44px !important;
+  line-height: 44px !important;
 }
 
 .leaflet-bar a:hover {
   background: var(--color-parchment-deep) !important;
+}
+
+@media (max-width: 1023px) {
+  .explorer-map .leaflet-bottom.leaflet-right {
+    bottom: 96px;
+  }
 }
 
 .leaflet-popup-content-wrapper {

@@ -10,6 +10,25 @@ optional and only needed for accounts and synced favorites.
 - **Domain:** a Vercel `*.vercel.app` URL is issued automatically with HTTPS.
   A custom domain is optional and must be added by the account owner.
 
+## Live deployment
+
+| Item | Value |
+| --- | --- |
+| Production URL | <https://maharashtra-fort-explorer.vercel.app> |
+| Repository | <https://github.com/darshangaikwad4114/maharashtra-fort-explorer> |
+| Vercel project | `maharashtra-fort-explorer` (personal scope `darshangaikwad`) |
+| Build | Next.js 16 on Vercel, Node 24.x, 251 static routes |
+| `NEXT_PUBLIC_SITE_URL` | `https://maharashtra-fort-explorer.vercel.app` (production, preview, development) |
+
+Redeploy after a change:
+
+```bash
+npx vercel@latest deploy --prod --yes   # or connect Git in the Vercel dashboard
+```
+
+Connecting the GitHub repository in Vercel (Project → Settings → Git) makes each
+push to `main` deploy automatically; run `vercel git connect` once to link them.
+
 ## 1. Environment variables
 
 Copy `.env.example` to `.env.local` for local runs. Production values are set in

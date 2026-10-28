@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function NotFound() {
   return (
     <div className="mx-auto flex min-h-[70vh] w-full max-w-xl flex-col items-center justify-center px-6 text-center">
-      <p className="font-display text-6xl font-semibold text-line-strong">404</p>
+      <p className="font-display text-6xl font-semibold text-ink-muted">404</p>
       <h1 className="mt-4 font-display text-3xl font-semibold text-ink">
         This path ends here
       </h1>
