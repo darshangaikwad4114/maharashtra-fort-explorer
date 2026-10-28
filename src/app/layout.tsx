@@ -25,6 +25,9 @@ const notoDeva = Noto_Sans_Devanagari({
   subsets: ["devanagari"],
   variable: "--font-noto-deva",
   display: "swap",
+  // Only Marathi copy needs these glyphs, so preloading them on every English
+  // page costs a request that never gets used.
+  preload: false,
 });
 
 export const metadata: Metadata = {
