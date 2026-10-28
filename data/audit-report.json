@@ -1,0 +1,369 @@
+{
+  "generatedAt": "2026-10-27T16:10:06.151Z",
+  "sourceCsv": "data/raw/forts.csv",
+  "districtBoundarySource": "https://github.com/datta07/INDIAN-SHAPEFILES/blob/master/STATES/MAHARASHTRA/MAHARASHTRA_DISTRICTS.geojson",
+  "totals": {
+    "csvRows": 237,
+    "published": 237,
+    "excluded": 0,
+    "curated": 37,
+    "catalog": 200,
+    "withImage": 37,
+    "withDescription": 37
+  },
+  "encodingFixes": [
+    "Row 34: \"Bhudargad�Fort\" → \"Bhudargad Fort\"",
+    "Row 49: \"DharmveerGad /�Bahadurgad\" → \"DharmveerGad / Bahadurgad\"",
+    "Row 100: \"Kohoj�Fort\" → \"Kohoj Fort\"",
+    "Row 106: \"Kothaligad�/ Bhairavgad \" → \"Kothaligad / Bhairavgad\""
+  ],
+  "curatedMatchIssues": [],
+  "excludedOutOfState": [],
+  "duplicateGroups": [
+    {
+      "slugs": [
+        "bahadur-fort",
+        "dharmveergad"
+      ],
+      "distanceM": 0,
+      "coords": [
+        18.507953,
+        74.704133
+      ]
+    },
+    {
+      "slugs": [
+        "kenjalgad",
+        "korlai-fort"
+      ],
+      "distanceM": 0,
+      "coords": [
+        18.535833,
+        72.908056
+      ]
+    },
+    {
+      "slugs": [
+        "kolaba-fort",
+        "sarjekot-fort"
+      ],
+      "distanceM": 0,
+      "coords": [
+        18.6344,
+        72.8642
+      ]
+    },
+    {
+      "slugs": [
+        "morgiri-fort",
+        "shaniwar-wada"
+      ],
+      "distanceM": 172,
+      "coords": [
+        18.5203,
+        73.8567
+      ]
+    }
+  ],
+  "flags": [
+    {
+      "slug": "arnala-fort",
+      "name": "Arnala Fort",
+      "flags": [
+        "district-assigned-from-coast"
+      ],
+      "duplicateOf": []
+    },
+    {
+      "slug": "bahadur-fort",
+      "name": "Bahadur Fort",
+      "flags": [
+        "duplicate-coordinates",
+        "location-disputed"
+      ],
+      "duplicateOf": [
+        "dharmveergad"
+      ]
+    },
+    {
+      "slug": "dharmveergad",
+      "name": "DharmveerGad",
+      "flags": [
+        "duplicate-coordinates",
+        "location-disputed"
+      ],
+      "duplicateOf": [
+        "bahadur-fort"
+      ]
+    },
+    {
+      "slug": "kenjalgad",
+      "name": "Kenjalgad",
+      "flags": [
+        "duplicate-coordinates",
+        "location-disputed"
+      ],
+      "duplicateOf": [
+        "korlai-fort"
+      ]
+    },
+    {
+      "slug": "khanderi-fort",
+      "name": "Khanderi Fort",
+      "flags": [
+        "district-assigned-from-coast"
+      ],
+      "duplicateOf": []
+    },
+    {
+      "slug": "kolaba-fort",
+      "name": "Kolaba Fort",
+      "flags": [
+        "district-assigned-from-coast",
+        "duplicate-coordinates"
+      ],
+      "duplicateOf": [
+        "sarjekot-fort"
+      ]
+    },
+    {
+      "slug": "korlai-fort",
+      "name": "Korlai Fort",
+      "flags": [
+        "duplicate-coordinates"
+      ],
+      "duplicateOf": [
+        "kenjalgad"
+      ]
+    },
+    {
+      "slug": "mahim-fort",
+      "name": "Mahim Fort",
+      "flags": [
+        "district-assigned-from-coast",
+        "district-manual-override"
+      ],
+      "duplicateOf": []
+    },
+    {
+      "slug": "morgiri-fort",
+      "name": "Morgiri Fort",
+      "flags": [
+        "duplicate-coordinates",
+        "location-disputed"
+      ],
+      "duplicateOf": [
+        "shaniwar-wada"
+      ]
+    },
+    {
+      "slug": "murud-janjira-fort",
+      "name": "Murud-Janjira Fort",
+      "flags": [
+        "district-assigned-from-coast"
+      ],
+      "duplicateOf": []
+    },
+    {
+      "slug": "padmadurg-fort",
+      "name": "Padmadurg Fort",
+      "flags": [
+        "district-assigned-from-coast"
+      ],
+      "duplicateOf": []
+    },
+    {
+      "slug": "sarjekot-fort",
+      "name": "Sarjekot fort",
+      "flags": [
+        "district-assigned-from-coast",
+        "duplicate-coordinates",
+        "location-disputed"
+      ],
+      "duplicateOf": [
+        "kolaba-fort"
+      ]
+    },
+    {
+      "slug": "shaniwar-wada",
+      "name": "Shaniwar Wada",
+      "flags": [
+        "duplicate-coordinates"
+      ],
+      "duplicateOf": [
+        "morgiri-fort"
+      ]
+    },
+    {
+      "slug": "sindhudurg-fort",
+      "name": "Sindhudurg Fort",
+      "flags": [
+        "district-assigned-from-coast"
+      ],
+      "duplicateOf": []
+    },
+    {
+      "slug": "suvarnadurg-fort",
+      "name": "Suvarnadurg Fort",
+      "flags": [
+        "district-assigned-from-coast"
+      ],
+      "duplicateOf": []
+    },
+    {
+      "slug": "underi",
+      "name": "Underi",
+      "flags": [
+        "district-assigned-from-coast"
+      ],
+      "duplicateOf": []
+    }
+  ],
+  "curatedMissingImages": [],
+  "districts": [
+    {
+      "name": "Ahilyanagar",
+      "count": 16
+    },
+    {
+      "name": "Akola",
+      "count": 3
+    },
+    {
+      "name": "Amravati",
+      "count": 1
+    },
+    {
+      "name": "Beed",
+      "count": 0
+    },
+    {
+      "name": "Bhandara",
+      "count": 0
+    },
+    {
+      "name": "Buldhana",
+      "count": 2
+    },
+    {
+      "name": "Chandrapur",
+      "count": 3
+    },
+    {
+      "name": "Chhatrapati Sambhajinagar",
+      "count": 3
+    },
+    {
+      "name": "Dharashiv",
+      "count": 2
+    },
+    {
+      "name": "Dhule",
+      "count": 4
+    },
+    {
+      "name": "Gadchiroli",
+      "count": 2
+    },
+    {
+      "name": "Gondia",
+      "count": 0
+    },
+    {
+      "name": "Hingoli",
+      "count": 0
+    },
+    {
+      "name": "Jalgaon",
+      "count": 1
+    },
+    {
+      "name": "Jalna",
+      "count": 0
+    },
+    {
+      "name": "Kolhapur",
+      "count": 9
+    },
+    {
+      "name": "Latur",
+      "count": 1
+    },
+    {
+      "name": "Mumbai City",
+      "count": 5
+    },
+    {
+      "name": "Mumbai Suburban",
+      "count": 3
+    },
+    {
+      "name": "Nagpur",
+      "count": 2
+    },
+    {
+      "name": "Nanded",
+      "count": 3
+    },
+    {
+      "name": "Nandurbar",
+      "count": 0
+    },
+    {
+      "name": "Nashik",
+      "count": 40
+    },
+    {
+      "name": "Palghar",
+      "count": 16
+    },
+    {
+      "name": "Parbhani",
+      "count": 0
+    },
+    {
+      "name": "Pune",
+      "count": 27
+    },
+    {
+      "name": "Raigad",
+      "count": 37
+    },
+    {
+      "name": "Ratnagiri",
+      "count": 17
+    },
+    {
+      "name": "Sangli",
+      "count": 1
+    },
+    {
+      "name": "Satara",
+      "count": 18
+    },
+    {
+      "name": "Sindhudurg",
+      "count": 9
+    },
+    {
+      "name": "Solapur",
+      "count": 3
+    },
+    {
+      "name": "Thane",
+      "count": 9
+    },
+    {
+      "name": "Wardha",
+      "count": 0
+    },
+    {
+      "name": "Washim",
+      "count": 0
+    },
+    {
+      "name": "Yavatmal",
+      "count": 0
+    }
+  ]
+}

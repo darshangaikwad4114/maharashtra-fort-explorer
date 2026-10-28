@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Ahilyanagar",
+    "aka": "Ahmednagar",
+    "slug": "ahilyanagar",
+    "fortCount": 16
+  },
+  {
+    "name": "Akola",
+    "aka": null,
+    "slug": "akola",
+    "fortCount": 3
+  },
+  {
+    "name": "Amravati",
+    "aka": null,
+    "slug": "amravati",
+    "fortCount": 1
+  },
+  {
+    "name": "Beed",
+    "aka": null,
+    "slug": "beed",
+    "fortCount": 0
+  },
+  {
+    "name": "Bhandara",
+    "aka": null,
+    "slug": "bhandara",
+    "fortCount": 0
+  },
+  {
+    "name": "Buldhana",
+    "aka": null,
+    "slug": "buldhana",
+    "fortCount": 2
+  },
+  {
+    "name": "Chandrapur",
+    "aka": null,
+    "slug": "chandrapur",
+    "fortCount": 3
+  },
+  {
+    "name": "Chhatrapati Sambhajinagar",
+    "aka": "Aurangabad",
+    "slug": "chhatrapati-sambhajinagar",
+    "fortCount": 3
+  },
+  {
+    "name": "Dharashiv",
+    "aka": "Osmanabad",
+    "slug": "dharashiv",
+    "fortCount": 2
+  },
+  {
+    "name": "Dhule",
+    "aka": null,
+    "slug": "dhule",
+    "fortCount": 4
+  },
+  {
+    "name": "Gadchiroli",
+    "aka": null,
+    "slug": "gadchiroli",
+    "fortCount": 2
+  },
+  {
+    "name": "Gondia",
+    "aka": null,
+    "slug": "gondia",
+    "fortCount": 0
+  },
+  {
+    "name": "Hingoli",
+    "aka": null,
+    "slug": "hingoli",
+    "fortCount": 0
+  },
+  {
+    "name": "Jalgaon",
+    "aka": null,
+    "slug": "jalgaon",
+    "fortCount": 1
+  },
+  {
+    "name": "Jalna",
+    "aka": null,
+    "slug": "jalna",
+    "fortCount": 0
+  },
+  {
+    "name": "Kolhapur",
+    "aka": null,
+    "slug": "kolhapur",
+    "fortCount": 9
+  },
+  {
+    "name": "Latur",
+    "aka": null,
+    "slug": "latur",
+    "fortCount": 1
+  },
+  {
+    "name": "Mumbai City",
+    "aka": null,
+    "slug": "mumbai-city",
+    "fortCount": 5
+  },
+  {
+    "name": "Mumbai Suburban",
+    "aka": null,
+    "slug": "mumbai-suburban",
+    "fortCount": 3
+  },
+  {
+    "name": "Nagpur",
+    "aka": null,
+    "slug": "nagpur",
+    "fortCount": 2
+  },
+  {
+    "name": "Nanded",
+    "aka": null,
+    "slug": "nanded",
+    "fortCount": 3
+  },
+  {
+    "name": "Nandurbar",
+    "aka": null,
+    "slug": "nandurbar",
+    "fortCount": 0
+  },
+  {
+    "name": "Nashik",
+    "aka": null,
+    "slug": "nashik",
+    "fortCount": 40
+  },
+  {
+    "name": "Palghar",
+    "aka": null,
+    "slug": "palghar",
+    "fortCount": 16
+  },
+  {
+    "name": "Parbhani",
+    "aka": null,
+    "slug": "parbhani",
+    "fortCount": 0
+  },
+  {
+    "name": "Pune",
+    "aka": null,
+    "slug": "pune",
+    "fortCount": 27
+  },
+  {
+    "name": "Raigad",
+    "aka": null,
+    "slug": "raigad",
+    "fortCount": 37
+  },
+  {
+    "name": "Ratnagiri",
+    "aka": null,
+    "slug": "ratnagiri",
+    "fortCount": 17
+  },
+  {
+    "name": "Sangli",
+    "aka": null,
+    "slug": "sangli",
+    "fortCount": 1
+  },
+  {
+    "name": "Satara",
+    "aka": null,
+    "slug": "satara",
+    "fortCount": 18
+  },
+  {
+    "name": "Sindhudurg",
+    "aka": null,
+    "slug": "sindhudurg",
+    "fortCount": 9
+  },
+  {
+    "name": "Solapur",
+    "aka": null,
+    "slug": "solapur",
+    "fortCount": 3
+  },
+  {
+    "name": "Thane",
+    "aka": null,
+    "slug": "thane",
+    "fortCount": 9
+  },
+  {
+    "name": "Wardha",
+    "aka": null,
+    "slug": "wardha",
+    "fortCount": 0
+  },
+  {
+    "name": "Washim",
+    "aka": null,
+    "slug": "washim",
+    "fortCount": 0
+  },
+  {
+    "name": "Yavatmal",
+    "aka": null,
+    "slug": "yavatmal",
+    "fortCount": 0
+  }
+]

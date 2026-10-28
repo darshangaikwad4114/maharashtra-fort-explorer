@@ -1,0 +1,1247 @@
+{
+  "schemaVersion": 1,
+  "reviewedOn": "2026-10-27",
+  "notes": "Editorial profiles grounded in the listed Wikipedia articles and checked against Maharashtra district boundary geometry. Trekking difficulty and season are editorial guidance, not survey data. Missing fields stay null and render as unverified.",
+  "forts": [
+    {
+      "slug": "raigad-fort",
+      "sourceName": "Raigad Fort",
+      "name": "Raigad Fort",
+      "nameMr": "रायगड",
+      "aliases": [
+        "Rairi",
+        "Raigad"
+      ],
+      "category": "hill",
+      "heritageClass": "maratha",
+      "featured": true,
+      "built": "1656–1674 (developed as the Maratha capital)",
+      "elevationM": 820,
+      "difficulty": "moderate",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Ropeway and road access near the summit; the traditional stepped route is about 1,737 steps.",
+      "accessibilityMr": "शिखराजवळ दोरीची गाडी आणि रस्ता आहे; पारंपरिक पायऱ्यांचा मार्ग सुमारे १,७३७ पायऱ्यांचा आहे.",
+      "historyEn": "Raigad, earlier known as Rairi, became the capital of Shivaji Maharaj's Hindavi Swaraj after his coronation in 1674. Palaces, a market, water cisterns and the Nagarkhana were developed under Shivaji with engineer Hiroji Indulkar. It remained a major Maratha stronghold until its capture by the British in 1818.",
+      "historyMr": "रायगड (पूर्वीचा रायरी) १६७४ मध्ये शिवाजी महाराजांच्या राज्याभिषेकानंतर हिंदवी स्वराज्याची राजधानी झाला. हिरोजी इंदुलकरांच्या मार्गदर्शनाखाली येथील राजवाडे, बाजारपेठ, पाण्याच्या टाक्या आणि नगारखाना उभारण्यात आला. १८१८ मध्ये ब्रिटिशांनी किल्ला ताब्यात घेईपर्यंत तो मराठ्यांचा महत्त्वाचा गड राहिला.",
+      "travelEn": "Base village Pachad is reached by road from Mahad. A ropeway shortens the climb; the pedestrian route is long, so start early.",
+      "travelMr": "महाडहून रस्त्याने पाचाड गावापर्यंत पोहोचता येते. दोरीची गाडी चढाई सोपी करते; पायी जाणारा मार्ग लांब असल्याने लवकर निघा.",
+      "wikiTitle": "Raigad Fort",
+      "sources": [
+        {
+          "title": "Raigad Fort — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Raigad_Fort",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "rajgad-fort",
+      "sourceName": "Rajgad Fort",
+      "name": "Rajgad Fort",
+      "nameMr": "राजगड",
+      "aliases": [
+        "Murumbdev",
+        "Murumbadev"
+      ],
+      "category": "hill",
+      "heritageClass": "maratha",
+      "featured": true,
+      "built": "17th century; first Maratha capital",
+      "elevationM": 1376,
+      "difficulty": "hard",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Trekking routes from Gunjavane and Pali village; no road reaches the top.",
+      "accessibilityMr": "गुंजवणे आणि पाली गावातून पायी मार्ग; शिखरापर्यंत रस्ता नाही.",
+      "historyEn": "Formerly Murumbdev, Rajgad was the first capital of Shivaji Maharaj's territory for about 26 years before the capital moved to Raigad. Its three machis — Padmavati, Suvela and Sanjeevani — hold palaces, cisterns and cave ruins. Rajaram, son of Shivaji, was born at Padmavati Machi in 1670.",
+      "historyMr": "पूर्वी मुरुंबदेव म्हणून ओळखला जाणारा राजगड सुमारे २६ वर्षे शिवाजी महाराजांच्या राज्याची पहिली राजधानी होता; नंतर राजधानी रायगडावर हलविण्यात आली. पद्मावती, सुवेळा आणि संजीवनी या तीन माच्यांवर राजवाडे, पाण्याच्या टाक्या आणि लेण्यांचे अवशेष आहेत. १६७० मध्ये शिवाजी महाराजांचे पुत्र राजाराम यांचा जन्म पद्मावती माचीवर झाला.",
+      "travelEn": "Treks usually begin at Gunjavane (longer) or Pali village (shorter and steeper). Carry water; the plateau has little shade.",
+      "travelMr": "पायी प्रवास सहसा गुंजवणे (लांब) किंवा पाली गाव (लहान व तीव्र) येथून सुरू होतो. पाणी सोबत ठेवा; पठारावर फारसा सावली नाही.",
+      "wikiTitle": "Rajgad",
+      "sources": [
+        {
+          "title": "Rajgad — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rajgad",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "torna-fort",
+      "sourceName": "Torna Fort",
+      "name": "Torna Fort",
+      "nameMr": "तोरणा",
+      "aliases": [
+        "Prachandagad"
+      ],
+      "category": "hill",
+      "heritageClass": "maratha",
+      "featured": true,
+      "built": "13th century; captured by Shivaji in 1646",
+      "elevationM": 1403,
+      "difficulty": "hard",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Trek from Velhe village; roughly 4–5 hours round trip with a long, exposed climb.",
+      "accessibilityMr": "वेळ्हे गावातून पायी प्रवास; सुमारे ४–५ तासांचा फेरफटका आणि लांब, उन्हाची चढाई.",
+      "historyEn": "Torna, also called Prachandagad, was the first fort captured by the teenage Shivaji Maharaj in 1646. Treasure recovered from Torna helped fund the fortification of Rajgad. At 1,403 m it is the highest hill fort in Pune district; Budhla Machi and Zunjar Machi still survive.",
+      "historyMr": "प्रचंडगड म्हणूनही ओळखला जाणारा तोरणा १६४६ मध्ये वयाने लहान असलेल्या शिवाजी महाराजांनी जिंकलेला पहिला किल्ला होता. तोरण्यावरून मिळालेल्या खजिन्याने राजगडाच्या तटबंदीचे काम पुढे गेले. १,४०३ मीटर उंचीमुळे तो पुणे जिल्ह्यातील सर्वात उंच डोंगरदुर्ग आहे; बुधला आणि झुंजार माची अजूनही उभ्या आहेत.",
+      "travelEn": "The usual base is Velhe, southwest of Pune. Start early, carry water and avoid the exposed ridge during storms.",
+      "travelMr": "पुण्याच्या नैऋत्येस वेळ्हे हे सहसा पायथ्याचे गाव असते. लवकर निघा, पाणी सोबत ठेवा आणि वादळी हवामानात उघड्या कड्यावर टाळा.",
+      "wikiTitle": "Torna Fort",
+      "sources": [
+        {
+          "title": "Torna Fort — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Torna_Fort",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "sinhagad-fort",
+      "sourceName": "Sinhagad",
+      "name": "Sinhagad",
+      "nameMr": "सिंहगड",
+      "aliases": [
+        "Kondhana",
+        "Sinhagad Fort"
+      ],
+      "category": "hill",
+      "heritageClass": "maratha",
+      "featured": true,
+      "built": "Ancient; major Maratha action in 1670",
+      "elevationM": 1317,
+      "difficulty": "moderate",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Road access to the summit; the traditional trek from the base is about 2.7 km with roughly 600 m of ascent.",
+      "accessibilityMr": "शिखरापर्यंत रस्ता; पायथ्यापासून पारंपरिक पायी मार्ग सुमारे २.७ किमी आणि सुमारे ६०० मीटर चढ.",
+      "historyEn": "Earlier called Kondhana, Sinhagad is best known for the 1670 Battle of Sinhagad, in which Tanaji Malusare's Maratha force retook the fort from the Mughals. The fort was contested repeatedly between the Marathas, Mughals and British before passing to the British in 1818.",
+      "historyMr": "पूर्वी कोंढाणा म्हणून ओळखला जाणारा सिंहगड १६७० च्या सिंहगडाच्या लढाईसाठी प्रसिद्ध आहे; या लढाईत तानाजी मालुसरेंच्या सैन्याने मुघलांकडून किल्ला परत घेतला. मराठे, मुघल आणि ब्रिटिश यांच्यात वारंवार संघर्ष झाल्यानंतर १८१८ मध्ये तो ब्रिटिशांच्या ताब्यात गेला.",
+      "travelEn": "About 28 km southwest of Pune by road. The popular trek starts near Donje village; the summit gets crowded at weekends.",
+      "travelMr": "पुण्याच्या नैऋत्येस सुमारे २८ किमी अंतरावर रस्त्याने जाता येते. लोकप्रिय पायी मार्ग दोंजे गावाजवळ सुरू होतो; सुट्टीच्या दिवसांत शिखरावर गर्दी असते.",
+      "wikiTitle": "Sinhagad",
+      "sources": [
+        {
+          "title": "Sinhagad — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sinhagad",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "pratapgad-fort",
+      "sourceName": "Pratapgad",
+      "name": "Pratapgad Fort",
+      "nameMr": "प्रतापगड",
+      "aliases": [
+        "Pratapgarh"
+      ],
+      "category": "hill",
+      "heritageClass": "maratha",
+      "featured": true,
+      "built": "1656",
+      "elevationM": 1080,
+      "difficulty": "moderate",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Road to the lower fort, then stone steps to the upper fort; a short but steady climb.",
+      "accessibilityMr": "खालच्या किल्ल्यापर्यंत रस्ता, नंतर वरच्या किल्ल्यापर्यंत दगडी पायऱ्या; लहान पण सातत्यपूर्ण चढाई.",
+      "historyEn": "Pratapgad was built in 1656 and is famous for the Battle of Pratapgad on 10 November 1659, where Shivaji Maharaj defeated Bijapur general Afzal Khan. The fort has upper and lower sections, gates, bastions and a temple, and stands about 1,080 m above sea level.",
+      "historyMr": "प्रतापगड १६५६ मध्ये बांधला गेला आणि १० नोव्हेंबर १६५९ रोजी शिवाजी महाराजांनी बिजापूरचा सेनापती अफझलखानाचा पराभव केलेल्या प्रतापगडाच्या लढाईसाठी तो प्रसिद्ध आहे. किल्ल्याला वरचा आणि खालचा भाग, प्रवेशद्वारे, बुरुज आणि मंदिर आहे; तो समुद्रसपाटीपासून सुमारे १,०८० मीटर उंच आहे.",
+      "travelEn": "About 24 km from Mahabaleshwar by road. Combine the visit with a walk between the lower and upper forts.",
+      "travelMr": "महाबळेश्वरपासून सुमारे २४ किमी अंतरावर रस्त्याने जाता येते. खालचा आणि वरचा किल्ला पायी फिरून पाहणे उत्तम.",
+      "wikiTitle": "Pratapgad",
+      "sources": [
+        {
+          "title": "Pratapgad — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pratapgad",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "shivneri-fort",
+      "sourceName": "Shivneri",
+      "name": "Shivneri Fort",
+      "nameMr": "शिवनेरी",
+      "aliases": [
+        "Shivneri Killa",
+        "Junnar Fort"
+      ],
+      "category": "hill",
+      "heritageClass": "nizam_shahi",
+      "featured": true,
+      "built": "Ancient; held by the Nizam Shahi before Maratha control",
+      "elevationM": null,
+      "difficulty": "moderate",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Stone steps climb from the base near Junnar; the ascent is steady and partly shaded.",
+      "accessibilityMr": "जुन्नरजवळील पायथ्यापासून दगडी पायऱ्या वर जातात; चढाई सातत्यपूर्ण आणि काही ठिकाणी सावलीची आहे.",
+      "historyEn": "Shivneri, near Junnar, is the birthplace of Shivaji Maharaj. The fort holds gates, water cisterns, temples and the Shivai temple on a fortified hill. It passed between the Nizam Shahi, Mughal and Maratha powers over its long history.",
+      "historyMr": "जुन्नरजवळील शिवनेरी हे शिवाजी महाराजांचे जन्मस्थान आहे. किल्ल्यावर प्रवेशद्वारे, पाण्याच्या टाक्या, मंदिरे आणि शिवाई देवीचे मंदिर आहे. निजामशाही, मुघल आणि मराठा सत्तांमध्ये त्याची सत्ता बदलत राहिली.",
+      "travelEn": "Near Junnar, reachable by road from Pune; allow time for the steps and the fort's many water structures.",
+      "travelMr": "जुन्नरजवळ, पुण्याहून रस्त्याने पोहोचता येते; पायऱ्या आणि किल्ल्यावरील पाण्याच्या रचना पाहण्यासाठी वेळ ठेवा.",
+      "wikiTitle": "Shivneri Fort",
+      "sources": [
+        {
+          "title": "Shivneri Fort — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shivneri_Fort",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "lohagad-fort",
+      "sourceName": "Lohagad",
+      "name": "Lohagad Fort",
+      "nameMr": "लोहगड",
+      "aliases": [
+        "Lohgad"
+      ],
+      "category": "hill",
+      "heritageClass": "maratha",
+      "featured": true,
+      "built": "Ancient; captured by Shivaji in 1648",
+      "elevationM": 1033,
+      "difficulty": "easy",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Well-marked trek from Malavli via Bhaje caves; about 1–1.5 hours one way with easy gradients.",
+      "accessibilityMr": "मालवलीहून भाजे लेण्यांमार्गे स्पष्ट चिन्हांकित पायी मार्ग; एकेरी सुमारे १–१.५ तास आणि सोपा उतार-चढाव.",
+      "historyEn": "Lohagad, near Lonavala, rises to 1,033 m and is joined to Visapur by a short ridge. Shivaji Maharaj captured it in 1648; after a brief Mughal occupation it remained with the Marathas until 1818. The Vinchu Kata spur and several gates are among its defences.",
+      "historyMr": "लोणावळ्याजवळील लोहगड १,०३३ मीटर उंच आहे आणि विसापूरशी एका लहान कड्याने जोडलेला आहे. शिवाजी महाराजांनी १६४८ मध्ये तो जिंकला; काही काळ मुघलांच्या ताब्यात राहिल्यानंतर १८१८ पर्यंत तो मराठ्यांकडे होता. विंचू काटा आणि अनेक प्रवेशद्वारे त्याच्या तटबंदीची वैशिष्ट्ये आहेत.",
+      "travelEn": "Reach Malavli by local train or road, then walk via the Bhaje caves. Avoid the fortifications in heavy rain.",
+      "travelMr": "स्थानिक रेल्वे किंवा रस्त्याने मालवलीला जा, नंतर भाजे लेण्यांमार्गे पायी चला. मुसळधार पावसात तटबंदीवर जाणे टाळा.",
+      "wikiTitle": "Lohagad",
+      "sources": [
+        {
+          "title": "Lohagad — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lohagad",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "visapur-fort",
+      "sourceName": "Visapur Fort",
+      "name": "Visapur Fort",
+      "nameMr": "विसापूर",
+      "aliases": [
+        "Visapoor Fort"
+      ],
+      "category": "hill",
+      "heritageClass": "maratha",
+      "featured": false,
+      "built": "1713–1720",
+      "elevationM": 1084,
+      "difficulty": "moderate",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Trek from Bhaje or Malavli; steeper and less shaded than the nearby Lohagad route.",
+      "accessibilityMr": "भाजे किंवा मालवलीहून पायी प्रवास; जवळच्या लोहगड मार्गापेक्षा तीव्र आणि कमी सावलीचा.",
+      "historyEn": "Visapur, built between 1713 and 1720 under Peshwa Balaji Vishwanath, occupies the higher plateau beside Lohagad. Its massive stone walls and water cisterns survive in ruins. The British captured it in 1818 and later damaged parts of its defences.",
+      "historyMr": "विसापूर १७१३ ते १७२० दरम्यान पेशवे बाळाजी विश्वनाथांच्या कारकिर्दीत बांधला गेला आणि लोहगडाच्या शेजारील उंच पठारावर वसलेला आहे. त्याच्या भक्कम दगडी तटबंदी आणि पाण्याच्या टाक्यांचे अवशेष आजही दिसतात. १८१८ मध्ये ब्रिटिशांनी तो ताब्यात घेतला आणि नंतर संरक्षणातील काही भाग उद्ध्वस्त केले.",
+      "travelEn": "Start from Bhaje or Malavli; the route can be combined with Lohagad for a full-day walk.",
+      "travelMr": "भाजे किंवा मालवलीहून सुरुवात करा; दिवसभराच्या फेरफटक्यासाठी लोहगडासोबत हा मार्ग जोडता येतो.",
+      "wikiTitle": "Visapur Fort",
+      "sources": [
+        {
+          "title": "Visapur Fort — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Visapur_Fort",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "harishchandragad-fort",
+      "sourceName": "Harishchandragad",
+      "name": "Harishchandragad Fort",
+      "nameMr": "हरिश्चंद्रगड",
+      "aliases": [
+        "Harishchandragad"
+      ],
+      "category": "hill",
+      "heritageClass": "yadava",
+      "featured": true,
+      "built": "Ancient; linked to the Yadava period",
+      "elevationM": 1422,
+      "difficulty": "hard",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Long treks from Khireshwar or Pachnai; the plateau is exposed and routes take 3–5 hours each way.",
+      "accessibilityMr": "खिरेश्वर किंवा पाचनईहून लांब पायी मार्ग; पठार उघडे असून एकेरी प्रवास ३–५ तास लागतो.",
+      "historyEn": "Harishchandragad is a hill fort in the Malshej Ghat region with cave temples, water cisterns and the Konkan Kada cliff. Its history is linked to the Yadava period and later Maratha control; the fort guarded old routes through the ghats. Taramati is among the highest points here.",
+      "historyMr": "हरिश्चंद्रगड माळशेज घाटातील डोंगरदुर्ग असून येथे लेणी-मंदिरे, पाण्याच्या टाक्या आणि कोकण कडा आहे. त्याचा इतिहास यादव काळाशी आणि नंतरच्या मराठा सत्तेशी जोडलेला आहे; घाटातील जुन्या मार्गांवर तो नजर ठेवत असे. तारामती शिखर हे येथील सर्वोच्च बिंदूंपैकी एक आहे.",
+      "travelEn": "Most treks start at Khireshwar or Pachnai. Carry water and food; do not attempt the Konkan Kada edge in poor visibility.",
+      "travelMr": "बहुतेक पायी प्रवास खिरेश्वर किंवा पाचनईपासून सुरू होतो. पाणी व अन्न सोबत ठेवा; धुक्यात किंवा खराब दृश्यमानतेत कोकण कडेजवळ जाऊ नका.",
+      "wikiTitle": "Harishchandragad",
+      "sources": [
+        {
+          "title": "Harishchandragad — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Harishchandragad",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "panhala-fort",
+      "sourceName": "Panhala Fort",
+      "name": "Panhala Fort",
+      "nameMr": "पन्हाळा",
+      "aliases": [
+        "Panhalgad",
+        "Panhalla"
+      ],
+      "category": "hill",
+      "heritageClass": "shilahara",
+      "featured": true,
+      "built": "1178–1209; expanded 1489–1557",
+      "elevationM": 845,
+      "difficulty": "easy",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Panhala village is connected by road to Kolhapur; most monuments can be explored on foot.",
+      "accessibilityMr": "पन्हाळा गाव कोल्हापूरशी रस्त्याने जोडलेले आहे; बहुतेक स्मारके पायी पाहता येतात.",
+      "historyEn": "Panhala, 20 km northwest of Kolhapur, guards a major Western Ghats pass. Built by Shilahara ruler Bhoja II and expanded under the Adil Shahis, it was a Maratha stronghold associated with Tarabai and the 1660 Battle of Pavan Khind. Its zigzag walls and several gates survive.",
+      "historyMr": "कोल्हापूरच्या वायव्येस २० किमी अंतरावर असलेला पन्हाळा पश्चिम घाटातील महत्त्वाच्या घाटमार्गावर नजर ठेवतो. शिलाहार राजा भोज दुसरा यांनी बांधलेला आणि आदिलशाहींनी विस्तारलेला हा किल्ला ताराबाई आणि १६६० च्या पावन खिंडीच्या लढाईशी जोडलेला मराठा गड आहे. त्याची वेटोळ्यांसारखी तटबंदी आणि अनेक प्रवेशद्वारे आजही उभी आहेत.",
+      "travelEn": "Reach Panhala by road from Kolhapur. The fort area is large; a vehicle helps cover the outer gates.",
+      "travelMr": "कोल्हापूरहून रस्त्याने पन्हाळ्याला जा. किल्ल्याचा परिसर मोठा आहे; बाहेरील प्रवेशद्वारे पाहण्यासाठी वाहन उपयुक्त ठरते.",
+      "wikiTitle": "Panhala Fort",
+      "sources": [
+        {
+          "title": "Panhala Fort — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Panhala_Fort",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "vijaydurg-fort",
+      "sourceName": "Vijaydurg Fort",
+      "name": "Vijaydurg Fort",
+      "nameMr": "विजयदुर्ग",
+      "aliases": [
+        "Viziadurg",
+        "Gheria"
+      ],
+      "category": "sea",
+      "heritageClass": "shilahara",
+      "featured": true,
+      "built": "1193–1205; strengthened by Shivaji",
+      "elevationM": 0,
+      "difficulty": "easy",
+      "bestSeason": {
+        "from": 10,
+        "to": 3
+      },
+      "accessibilityEn": "Road to Vijaydurg village, then a walk through the fort; boats depend on local conditions.",
+      "accessibilityMr": "विजयदुर्ग गावापर्यंत रस्ता, नंतर किल्ल्यातून पायी फेरफटका; बोटी स्थानिक परिस्थितीवर अवलंबून.",
+      "historyEn": "Vijaydurg is the oldest fort on the Sindhudurg coast, first built under Shilahara ruler Bhoja II around 1193–1205 and later strengthened by Shivaji Maharaj. Its high sea walls and 20 bastions earned it the name 'Eastern Gibraltar'; the fort also served as a Maratha naval base.",
+      "historyMr": "विजयदुर्ग हा सिंधुदुर्ग किनारपट्टीवरील सर्वात जुना किल्ला आहे; शिलाहार राजा भोज दुसरा यांच्या काळात सुमारे ११९३–१२०५ मध्ये बांधला गेला आणि नंतर शिवाजी महाराजांनी त्याची मजबुती वाढवली. उंच समुद्री तटबंदी आणि २० बुरुजांमुळे त्याला 'पूर्वेचा जिब्राल्टर' म्हटले जात असे; तो मराठा आरमाराचाही तळ होता.",
+      "travelEn": "Approach by road from Devgad or Malvan. Walk the walls with care; the seaward ramparts are unfenced in places.",
+      "travelMr": "देवगड किंवा मालवणाहून रस्त्याने जा. तटबंदीवर काळजीपूर्वक चाला; समुद्राकडील काही भागांना संरक्षक कठडे नाहीत.",
+      "wikiTitle": "Vijaydurg Fort",
+      "sources": [
+        {
+          "title": "Vijaydurg Fort — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vijaydurg_Fort",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "sindhudurg-fort",
+      "sourceName": "Sindhudurg Fort",
+      "name": "Sindhudurg Fort",
+      "nameMr": "सिंधुदुर्ग",
+      "aliases": [
+        "Sindhudurg"
+      ],
+      "category": "sea",
+      "heritageClass": "maratha",
+      "featured": true,
+      "built": "1664–1667",
+      "elevationM": 0,
+      "difficulty": "easy",
+      "bestSeason": {
+        "from": 10,
+        "to": 3
+      },
+      "accessibilityEn": "Boat from Malvan jetty; a short crossing followed by walking inside the fort.",
+      "accessibilityMr": "मालवण जेटीहून बोट; लहान प्रवासानंतर किल्ल्यात पायी फेरफटका.",
+      "historyEn": "Sindhudurg was commissioned by Shivaji Maharaj and built between 1664 and 1667 on an island off Malvan. Its walls, bastions and temples survive, and the fort is protected by the Archaeological Survey of India. It was a key Maratha naval base on the Konkan coast.",
+      "historyMr": "सिंधुदुर्ग शिवाजी महाराजांच्या आदेशाने १६६४ ते १६६७ दरम्यान मालवणाजवळील बेटावर बांधला गेला. त्याच्या तटबंदी, बुरुज आणि मंदिरे आजही शाबूत आहेत आणि किल्ला भारतीय पुरातत्व सर्वेक्षण (ASI) संरक्षित स्मारक आहे. कोकण किनारपट्टीवरील तो महत्त्वाचा मराठा आरमारी तळ होता.",
+      "travelEn": "Boats leave from Malvan jetty; services depend on tide and weather. Combine the visit with Malvan's coastal market.",
+      "travelMr": "मालवण जेटीहून बोटी सुटतात; सेवा भरती-ओहोटी व हवामानावर अवलंबून. भेट मालवणच्या किनारी बाजारपेठेसोबत जोडा.",
+      "wikiTitle": "Sindhudurg Fort",
+      "sources": [
+        {
+          "title": "Sindhudurg Fort — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sindhudurg_Fort",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "murud-janjira-fort",
+      "sourceName": "Janjira fort",
+      "name": "Murud-Janjira Fort",
+      "nameMr": "मुरुड-जंजिरा",
+      "aliases": [
+        "Janjira Fort",
+        "Janzira"
+      ],
+      "category": "sea",
+      "heritageClass": "siddi",
+      "featured": true,
+      "built": "16th century",
+      "elevationM": 0,
+      "difficulty": "easy",
+      "bestSeason": {
+        "from": 10,
+        "to": 3
+      },
+      "accessibilityEn": "Boat from Rajapuri jetty near Murud; the crossing is short but weather-dependent.",
+      "accessibilityMr": "मुरुडजवळील राजापुरी जेटीहून बोट; प्रवास लहान पण हवामानावर अवलंबून.",
+      "historyEn": "Murud-Janjira is an island fort off Murud, held by the Siddis of Janjira and built in the 16th century. It resisted repeated Maratha, Mughal and Portuguese attempts and remained a Siddi stronghold until 1948. Its massive walls rise directly from the sea.",
+      "historyMr": "मुरुड-जंजिरा हा मुरुडजवळील बेटावरील किल्ला आहे; १६ व्या शतकात बांधला गेला आणि जंजिऱ्याच्या सिद्दींच्या ताब्यात होता. मराठे, मुघल आणि पोर्तुगीजांचे वारंवार हल्ले त्याने परतवले आणि १९४८ पर्यंत तो सिद्दींचा गड राहिला. त्याची प्रचंड तटबंदी थेट समुद्रातून उभी आहे.",
+      "travelEn": "Reach Murud by road, then take the boat from Rajapuri jetty. Confirm return timing before boarding.",
+      "travelMr": "रस्त्याने मुरुडला जा, नंतर राजापुरी जेटीहून बोट घ्या. बोटीत चढण्यापूर्वी परतीची वेळ निश्चित करा.",
+      "wikiTitle": "Murud-Janjira",
+      "sources": [
+        {
+          "title": "Murud-Janjira — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Murud-Janjira",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "purandar-fort",
+      "sourceName": "Purandar fort",
+      "name": "Purandar Fort",
+      "nameMr": "पुरंदर",
+      "aliases": [
+        "Indraneel Parvat",
+        "Purandar"
+      ],
+      "category": "hill",
+      "heritageClass": "maratha",
+      "featured": true,
+      "built": "Medieval; major Maratha fort",
+      "elevationM": 1374,
+      "difficulty": "moderate",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Road to Narayanpur base and partway up the hill; steps lead to the upper fort.",
+      "accessibilityMr": "नारायणपूर पायथ्यापर्यंत आणि टेकडीवर काही अंतरापर्यंत रस्ता; वरच्या किल्ल्यापर्यंत पायऱ्या.",
+      "historyEn": "Purandar, with its twin Vajragad, stands about 50 km southeast of Pune and rises to 1,374 m. It was the site of the 1665 Treaty of Purandar between Shivaji Maharaj and the Mughals and is the birthplace of Sambhaji Maharaj. Its walls, gates and temples survive.",
+      "historyMr": "पुरंदर आणि त्याचा जुळा किल्ला वज्रगड पुण्याच्या आग्नेयेस सुमारे ५० किमी अंतरावर असून पुरंदर १,३७४ मीटर उंच आहे. १६६५ मध्ये शिवाजी महाराज आणि मुघलांमधील पुरंदरच्या तहाचे ठिकाण तोच होता आणि संभाजी महाराजांचे जन्मस्थानही. त्याच्या तटबंद्या, प्रवेशद्वारे आणि मंदिरे शाबूत आहेत.",
+      "travelEn": "Reach Narayanpur by road from Pune, then continue up. The upper fort is best explored on foot.",
+      "travelMr": "पुण्याहून रस्त्याने नारायणपूरला जा, नंतर वर चला. वरचा किल्ला पायी पाहणे उत्तम.",
+      "wikiTitle": "Purandar Fort",
+      "sources": [
+        {
+          "title": "Purandar Fort — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Purandar_Fort",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "daulatabad-fort",
+      "sourceName": "Daulatabad Fort",
+      "name": "Daulatabad Fort",
+      "nameMr": "दौलताबाद (देवगिरी)",
+      "aliases": [
+        "Devagiri",
+        "Deogiri"
+      ],
+      "category": "land",
+      "heritageClass": "yadava",
+      "featured": true,
+      "built": "Around 1187; expanded by later rulers",
+      "elevationM": null,
+      "difficulty": "moderate",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Road access from Chhatrapati Sambhajinagar; the climb involves steep steps, narrow passages and a dark tunnel.",
+      "accessibilityMr": "छत्रपती संभाजीनगरहून रस्त्याने प्रवेश; चढाईत तीव्र पायऱ्या, अरुंद मार्ग आणि अंधारी बोगदा आहे.",
+      "historyEn": "Daulatabad, originally Devagiri, was the Yadava capital from the 9th–14th centuries and briefly the capital of the Delhi Sultanate after Muhammad bin Tughluq moved his court here in 1327. Its layered defences include a moat, dark passages and the Chand Minar. It later passed to the Ahmadnagar Sultanate, Mughals, Marathas and the British.",
+      "historyMr": "दौलताबाद (मूळचा देवगिरी) ९व्या ते १४व्या शतकात यादवांची राजधानी होता आणि १३२७ मध्ये मुहम्मद बिन तुघलकांनी राजधानी येथे हलविल्यानंतर काही काळ दिल्ली सल्तनतची राजधानीही होता. खंदक, अंधारे मार्ग आणि चांद मिनार ही त्याच्या स्तरित संरक्षणाची वैशिष्ट्ये आहेत. नंतर तो अहमदनगर सल्तनत, मुघल, मराठे आणि ब्रिटिशांच्या ताब्यात गेला.",
+      "travelEn": "Located near Chhatrapati Sambhajinagar (Aurangabad). Wear shoes with grip; the tunnel is dark and narrow.",
+      "travelMr": "छत्रपती संभाजीनगर (औरंगाबाद) जवळ. पकड चांगली असलेले जूते घाला; बोगदा अंधारा व अरुंद आहे.",
+      "wikiTitle": "Daulatabad Fort",
+      "sources": [
+        {
+          "title": "Daulatabad Fort — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Daulatabad_Fort",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "ajinkyatara-fort",
+      "sourceName": "Ajinkyatara",
+      "name": "Ajinkyatara Fort",
+      "nameMr": "अजिंक्यतारा",
+      "aliases": [
+        "Ajinkyatara"
+      ],
+      "category": "hill",
+      "heritageClass": "maratha",
+      "featured": false,
+      "built": "Medieval Maratha fort",
+      "elevationM": 1006,
+      "difficulty": "easy",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Road and short climb from Satara city; suitable for a half-day visit.",
+      "accessibilityMr": "सातारा शहराहून रस्ता आणि लहान चढाई; अर्ध्या दिवसाच्या भेटीसाठी योग्य.",
+      "historyEn": "Ajinkyatara overlooks Satara from one of the seven hills around the city and rises to about 1,006 m. A Maratha fort, it passed to the British in 1818; its walls and bastions now form a heritage viewpoint.",
+      "historyMr": "अजिंक्यतारा सातारा शहराभोवतीच्या सात टेकड्यांपैकी एकावरून शहरावर नजर ठेवतो आणि सुमारे १,००६ मीटर उंच आहे. मराठा किल्ला असलेला अजिंक्यतारा १८१८ मध्ये ब्रिटिशांच्या ताब्यात गेला; त्याच्या तटबंद्या आणि बुरुज आता वारसा दर्शनस्थळ आहेत.",
+      "travelEn": "From Satara, take the road toward the fort and walk the last stretch. Sunset views over the city are popular.",
+      "travelMr": "साताऱ्याहून किल्ल्याकडे जाणारा रस्ता घ्या आणि शेवटचा भाग पायी चाला. शहरावरचे सूर्यास्ताचे दृश्य लोकप्रिय आहे.",
+      "wikiTitle": "Ajinkyatara",
+      "sources": [
+        {
+          "title": "Ajinkyatara — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ajinkyatara",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "korigad-fort",
+      "sourceName": "Korigad",
+      "name": "Korigad Fort",
+      "nameMr": "कोरीगड",
+      "aliases": [
+        "Koraigad",
+        "Kumwarigad"
+      ],
+      "category": "hill",
+      "heritageClass": "maratha",
+      "featured": false,
+      "built": "Likely before 1500",
+      "elevationM": 923,
+      "difficulty": "easy",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Short trek from Peth Shahpur, about 1 km from the fort; some steps near the top.",
+      "accessibilityMr": "पेठ शहापूरहून लहान पायी प्रवास, किल्ल्यापासून सुमारे १ किमी; वर काही पायऱ्या.",
+      "historyEn": "Korigad stands about 923 m high, roughly 18 km south of Lonavala. Its construction likely predates 1500; the fort later came under Maratha control and retains walls, gates and temples. The climb from Peth Shahpur is short and popular with beginners.",
+      "historyMr": "कोरीगड सुमारे ९२३ मीटर उंच असून लोणावळ्याच्या दक्षिणेस सुमारे १८ किमी अंतरावर आहे. त्याची बांधणी १५०० पूर्वीची असावी; नंतर तो मराठ्यांच्या ताब्यात आला आणि त्याच्या तटबंद्या, प्रवेशद्वारे व मंदिरे आजही आहेत. पेठ शहापूरहून चढाई लहान असून नवशिक्यांसाठी लोकप्रिय आहे.",
+      "travelEn": "Base at Peth Shahpur near Lonavala; a short walk with a few steep steps.",
+      "travelMr": "लोणावळ्याजवळील पेठ शहापूर हे पायथ्याचे गाव; काही तीव्र पायऱ्यांसह लहान पायी प्रवास.",
+      "wikiTitle": "Korigad",
+      "sources": [
+        {
+          "title": "Korigad — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Korigad",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "tikona-fort",
+      "sourceName": "Tikona",
+      "name": "Tikona Fort",
+      "nameMr": "टिकोणा",
+      "aliases": [
+        "Vitandgad"
+      ],
+      "category": "hill",
+      "heritageClass": "maratha",
+      "featured": false,
+      "built": "Medieval",
+      "elevationM": 1067,
+      "difficulty": "moderate",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Trek from Tikona Peth near Kamshet; the trail is steep in sections and exposed near the top.",
+      "accessibilityMr": "कामशेतजवळील टिकोणा पेठहून पायी प्रवास; मार्ग काही ठिकाणी तीव्र आणि शिखराजवळ उघडा आहे.",
+      "historyEn": "Tikona, also called Vitandgad, is a pyramidal hill fort near Kamshet, about 60 km from Pune. Its name means 'triangular'; the summit has large gates, a Trimbakeshwar Mahadev temple, water tanks and Satavahana-period caves. The climb offers views of Pavana lake and nearby forts.",
+      "historyMr": "टिकोणा (वितंदगड) कामशेतजवळील पिरॅमिडसारखा डोंगरदुर्ग आहे आणि पुण्यापासून सुमारे ६० किमी अंतरावर आहे. 'टिकोण' म्हणजे त्रिकोण; शिखरावर मोठी प्रवेशद्वारे, त्र्यंबकेश्वर महादेव मंदिर, पाण्याच्या टाक्या आणि सातवाहन कालीन लेणी आहेत. चढाईतून पवना तलाव व जवळच्या किल्ल्यांचे दृश्य दिसते.",
+      "travelEn": "Base at Tikona Peth, reached by road from Kamshet; carry water and avoid the exposed summit in storms.",
+      "travelMr": "कामशेतहून रस्त्याने टिकोणा पेठला जा; पाणी सोबत ठेवा आणि वादळी हवामानात उघड्या शिखरावर जाऊ नका.",
+      "wikiTitle": "Tikona",
+      "sources": [
+        {
+          "title": "Tikona — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tikona",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "tung-fort",
+      "sourceName": "Tung Fort",
+      "name": "Tung Fort",
+      "nameMr": "तुंग",
+      "aliases": [
+        "Kathingad"
+      ],
+      "category": "hill",
+      "heritageClass": "maratha",
+      "featured": false,
+      "built": "Medieval",
+      "elevationM": null,
+      "difficulty": "moderate",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Short but steep trek from Tungwadi; the final section is the hardest.",
+      "accessibilityMr": "तुंगवाडीहून लहान पण तीव्र पायी प्रवास; शेवटचा भाग सर्वात कठीण.",
+      "historyEn": "Tung, also called Kathingad ('difficult fort'), is a hill fort in Pune district near Pavana lake. It is approached from Tungwadi and is known for its steep final climb and views over the lake and surrounding forts.",
+      "historyMr": "तुंग (कठीणगड) पुणे जिल्ह्यात पवना तलावाजवळील डोंगरदुर्ग आहे. तुंगवाडीहून त्याकडे जाता येते; शेवटची चढाई तीव्र असून तलाव व आसपासच्या किल्ल्यांचे दृश्य दिसते.",
+      "travelEn": "Base at Tungwadi near Kamshet; a short, steep walk, best avoided in wet weather.",
+      "travelMr": "कामशेतजवळील तुंगवाडी हे पायथ्याचे गाव; लहान व तीव्र पायी प्रवास, पावसाळ्यात टाळा.",
+      "wikiTitle": "Tung Fort",
+      "sources": [
+        {
+          "title": "Tung Fort — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tung_Fort",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "vasota-fort",
+      "sourceName": "Vasota Fort",
+      "name": "Vasota Fort",
+      "nameMr": "वासोटा",
+      "aliases": [
+        "Vyaghragad"
+      ],
+      "category": "hill",
+      "heritageClass": "maratha",
+      "featured": false,
+      "built": "Medieval Maratha fort",
+      "elevationM": null,
+      "difficulty": "hard",
+      "bestSeason": {
+        "from": 10,
+        "to": 5
+      },
+      "accessibilityEn": "Boat across the Koyna reservoir, then a forest trek; forest permits and water levels affect access.",
+      "accessibilityMr": "कोयना जलाशयातून बोट, नंतर जंगलातून पायी प्रवास; वन परवाने आणि पाण्याची पातळी प्रवेशावर परिणाम करते.",
+      "historyEn": "Vasota, also called Vyaghragad, stands in the Koyna wildlife area of Satara district. It is reached by boat across the Koyna reservoir followed by a forest trek, so access depends on permits and water levels. The fort offers views over the reservoir and the Sahyadri ridges.",
+      "historyMr": "वासोटा (व्याघ्रगड) सातारा जिल्ह्यातील कोयना वन्यजीव क्षेत्रात आहे. कोयना जलाशयातून बोटीने जाऊन जंगलातून पायी चढाई करावी लागते, त्यामुळे प्रवेश परवाने आणि पाण्याच्या पातळीवर अवलंबून असतो. किल्ल्यावरून जलाशय आणि सह्याद्रीच्या रांगांचे दृश्य दिसते.",
+      "travelEn": "Boats from Bamnoli; confirm forest entry formalities and return transport before setting out.",
+      "travelMr": "बामणोलीहून बोटी; निघण्यापूर्वी वन प्रवेशाची औपचारिकता आणि परतीचे वाहन निश्चित करा.",
+      "wikiTitle": "Vasota Fort",
+      "sources": [
+        {
+          "title": "Vasota Fort — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vasota_Fort",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "salher-fort",
+      "sourceName": "Salher",
+      "name": "Salher Fort",
+      "nameMr": "साल्हेर",
+      "aliases": [
+        "Gavalgarh"
+      ],
+      "category": "hill",
+      "heritageClass": "maratha",
+      "featured": false,
+      "built": "Medieval Maratha fort",
+      "elevationM": 1567,
+      "difficulty": "hard",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Long, remote trek from Salher village; a full-day undertaking with limited facilities.",
+      "accessibilityMr": "साल्हेर गावातून लांब व दुर्गम पायी प्रवास; मर्यादित सुविधांसह दिवसभराची तयारी आवश्यक.",
+      "historyEn": "Salher, in Satana taluka of Nashik district, is the highest fort in the Sahyadris at 1,567 m and the second-highest peak in Maharashtra after Kalsubai. It was a Maratha fort and the site of the 1672 Battle of Salher. The trek is long and remote.",
+      "historyMr": "नाशिक जिल्ह्यातील सटाणा तालुक्यातील साल्हेर सह्याद्रीतील सर्वात उंच किल्ला असून १,५६७ मीटर उंच आहे; कळसूबाईनंतर महाराष्ट्रातील तो दुसरा सर्वोच्च शिखर आहे. तो मराठा किल्ला होता आणि १६७२ च्या साल्हेरच्या लढाईचे ठिकाण. चढाई लांब आणि दुर्गम आहे.",
+      "travelEn": "Approach from Salher village via Satana; carry food, water and a first-aid kit, and tell someone your plan.",
+      "travelMr": "सटाणामार्गे साल्हेर गावातून जा; अन्न, पाणी व प्रथमोपचार साहित्य सोबत ठेवा आणि आपली योजना कोणालातरी सांगा.",
+      "wikiTitle": "Salher",
+      "sources": [
+        {
+          "title": "Salher — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Salher",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "narnala-fort",
+      "sourceName": "Narnala",
+      "name": "Narnala Fort",
+      "nameMr": "नरनाळा",
+      "aliases": [
+        "Narnala Qila"
+      ],
+      "category": "hill",
+      "heritageClass": "sultanate",
+      "featured": false,
+      "built": "Origins in the 10th century",
+      "elevationM": null,
+      "difficulty": "moderate",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Road to the base near Akot, then a walk through the fort; some sections are overgrown.",
+      "accessibilityMr": "अकोटजवळ पायथ्यापर्यंत रस्ता, नंतर किल्ल्यातून पायी फेरफटका; काही भाग झाडाझुडुपांनी भरलेले आहेत.",
+      "historyEn": "Narnala is a hill fortress in the Satpura range of Vidarbha with origins in the 10th century. It passed through several Islamic dynasties before Maratha and British control; gates, the Rani Mahal and an elephant stable survive. The fort sits inside a wildlife sanctuary.",
+      "historyMr": "नरनाळा विदर्भातील सातपुडा रांगेतील डोंगरदुर्ग आहे आणि त्याचा उगम १०व्या शतकात आहे. अनेक इस्लामी राजवटींनंतर तो मराठे आणि ब्रिटिशांच्या ताब्यात गेला; प्रवेशद्वारे, राणी महाल आणि हत्तीशाळा शिल्लक राहिल्या आहेत. किल्ला वन्यजीव अभयारण्याच्या हद्दीत आहे.",
+      "travelEn": "Access via Akot in Akola district; check sanctuary rules and carry water.",
+      "travelMr": "अकोला जिल्ह्यातील अकोटमार्गे प्रवेश; अभयारण्याचे नियम तपासा आणि पाणी सोबत ठेवा.",
+      "wikiTitle": "Narnala",
+      "sources": [
+        {
+          "title": "Narnala — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Narnala",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "gawilghur-fort",
+      "sourceName": "Gawilghur",
+      "name": "Gawilghur Fort",
+      "nameMr": "गविलगड",
+      "aliases": [
+        "Gawilgarh",
+        "Gawilgad"
+      ],
+      "category": "hill",
+      "heritageClass": "maratha",
+      "featured": false,
+      "built": "Medieval; fortified stronghold",
+      "elevationM": null,
+      "difficulty": "moderate",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Forest trek from near Chikhaldara; a guide is recommended for the plateau routes.",
+      "accessibilityMr": "चिखलदराजवळून जंगलातील पायी प्रवास; पठारावरील मार्गांसाठी वाटाड्या घेणे उपयुक्त.",
+      "historyEn": "Gawilghur is a mountain stronghold in the Satpura range near Chikhaldara, Amravati district. It was assaulted by Arthur Wellesley's force on 15 December 1803 during the Second Anglo-Maratha War. Its gates and ruined walls stand on a plateau with wide views.",
+      "historyMr": "गविलगड अमरावती जिल्ह्यातील चिखलदरा जवळ सातपुडा रांगेतील डोंगरी किल्ला आहे. दुसऱ्या इंग्रज-मराठा युद्धात १५ डिसेंबर १८०३ रोजी आर्थर वेलस्लीच्या सैन्याने त्यावर हल्ला केला. त्याची प्रवेशद्वारे आणि अवशेष तटबंदी पठारावर उभी असून दूरवरचे दृश्य दिसते.",
+      "travelEn": "Base near Chikhaldara in Amravati district; combine with the hill station's forest trails.",
+      "travelMr": "अमरावती जिल्ह्यातील चिखलदराजवळून सुरुवात; धबधबे व जंगलमार्ग असलेल्या परिसरासोबत भेट जोडा.",
+      "wikiTitle": "Gawilghur",
+      "sources": [
+        {
+          "title": "Gawilghur — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gawilghur",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "kolaba-fort",
+      "sourceName": "Kolaba Fort",
+      "name": "Kolaba Fort",
+      "nameMr": "कोलाबा",
+      "aliases": [
+        "Alibaug Fort",
+        "Kolaba"
+      ],
+      "category": "sea",
+      "heritageClass": "maratha",
+      "featured": false,
+      "built": "17th century",
+      "elevationM": 0,
+      "difficulty": "easy",
+      "bestSeason": {
+        "from": 10,
+        "to": 3
+      },
+      "accessibilityEn": "Walk from Alibaug beach at low tide; check tide timings and avoid crossing as the tide rises.",
+      "accessibilityMr": "ओहोटीच्या वेळी अलिबाग किनाऱ्यावरून पायी जा; भरतीची वेळ तपासा आणि पाणी वाढू लागल्यावर परत येणे टाळा.",
+      "historyEn": "Kolaba Fort stands on a tidal island about 1–2 km from Alibaug beach. It was a Maratha maritime base with walls, bastions, a temple and a freshwater well, and is a protected monument. It can be walked to at low tide.",
+      "historyMr": "कोलाबा किल्ला अलिबागच्या किनाऱ्यापासून सुमारे १–२ किमी अंतरावरील भरती-ओहोटीच्या बेटावर आहे. तटबंदी, बुरुज, मंदिर आणि गोड्या पाण्याची विहीर असलेला तो मराठा आरमारी तळ होता आणि संरक्षित स्मारक आहे. ओहोटीच्या वेळी तेथे चालत जाता येते.",
+      "travelEn": "From Alibaug beach, walk across at low tide; local boatmen can confirm safe crossing times.",
+      "travelMr": "अलिबाग किनाऱ्यावरून ओहोटीच्या वेळी पायी जा; सुरक्षित वेळेबद्दल स्थानिक नावाड्यांकडून खात्री करा.",
+      "wikiTitle": "Kolaba Fort",
+      "sources": [
+        {
+          "title": "Kolaba Fort — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kolaba_Fort",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "suvarnadurg-fort",
+      "sourceName": "Suvarnadurg",
+      "name": "Suvarnadurg Fort",
+      "nameMr": "सुवर्णदुर्ग",
+      "aliases": [
+        "Golden Fort",
+        "Severndroog"
+      ],
+      "category": "sea",
+      "heritageClass": "maratha",
+      "featured": false,
+      "built": "Built as a naval fort; later Maratha shipyard",
+      "elevationM": 0,
+      "difficulty": "hard",
+      "bestSeason": {
+        "from": 10,
+        "to": 3
+      },
+      "accessibilityEn": "Boat access from Harnai; landing and access can be restricted, so ask locally first.",
+      "accessibilityMr": "हर्णाईहून बोटीने प्रवेश; उतरणे व प्रवेश मर्यादित असू शकतो, म्हणून आधी स्थानिकांकडून विचारा.",
+      "historyEn": "Suvarnadurg ('Golden Fort') is an island fort near Harnai between Mumbai and Goa. It was built for naval defence and later became a Maratha shipbuilding centre; its walls and bastions survive on the rocky island. Access is by boat and can be restricted.",
+      "historyMr": "सुवर्णदुर्ग ('सुवर्ण किल्ला') मुंबई आणि गोवा यांच्यामधील हर्णाईजवळील बेटावरील किल्ला आहे. तो नौदल संरक्षणासाठी बांधला गेला आणि नंतर मराठा जहाजबांधणीचे केंद्र बनला; खडकाळ बेटावर त्याच्या तटबंद्या व बुरुज शाबूत आहेत. प्रवेश बोटीने होतो आणि काहीवेळा मर्यादित असतो.",
+      "travelEn": "Boats from Harnai harbour; confirm landing permission and sea conditions before paying for a crossing.",
+      "travelMr": "हर्णाई बंदरातून बोटी; प्रवासासाठी पैसे देण्यापूर्वी उतरण्याची परवानगी व समुद्राची स्थिती तपासा.",
+      "wikiTitle": "Suvarnadurg",
+      "sources": [
+        {
+          "title": "Suvarnadurg — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Suvarnadurg",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "jaigad-fort",
+      "sourceName": "Jaigad Fort",
+      "name": "Jaigad Fort",
+      "nameMr": "जयगड",
+      "aliases": [
+        "Jayagad",
+        "Zyghur"
+      ],
+      "category": "sea",
+      "heritageClass": "shilahara",
+      "featured": false,
+      "built": "Medieval coastal fort",
+      "elevationM": 0,
+      "difficulty": "easy",
+      "bestSeason": {
+        "from": 10,
+        "to": 3
+      },
+      "accessibilityEn": "Road access from Ratnagiri or Ganpatipule; walk through the fort and around the lighthouse.",
+      "accessibilityMr": "रत्नागिरी किंवा गणपतीपुळेहून रस्त्याने प्रवेश; किल्ल्यातून व दीपगृहाभोवती पायी फेरफटका.",
+      "historyEn": "Jaigad stands at the tip of a peninsula where the Shastri river meets the sea, about 14 km from Ganpatipule. Its walls, moat and ramparts survive in ruins; a lighthouse and jetty are nearby. The fort guarded the river mouth and coastal trade.",
+      "historyMr": "जयगड शस्त्री नदी समुद्राला मिळणाऱ्या भागातील द्वीपकल्पाच्या टोकावर, गणपतीपुळेपासून सुमारे १४ किमी अंतरावर आहे. त्याच्या तटबंद्या, खंदक आणि बुरुज अवशेष स्वरूपात आहेत; जवळच दीपगृह आणि जेटी आहे. किल्ला नदीमुख व किनारी व्यापारावर नजर ठेवत असे.",
+      "travelEn": "Reach by road from Ratnagiri; the fort is a short coastal stop on the Ganpatipule route.",
+      "travelMr": "रत्नागिरीहून रस्त्याने जा; गणपतीपुळे मार्गावरील हा किनारी थांबा आहे.",
+      "wikiTitle": "Jaigad Fort",
+      "sources": [
+        {
+          "title": "Jaigad Fort — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jaigad_Fort",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "arnala-fort",
+      "sourceName": "Arnala fort",
+      "name": "Arnala Fort",
+      "nameMr": "अर्नाळा",
+      "aliases": [
+        "Jaldurg",
+        "Janjire Arnala"
+      ],
+      "category": "sea",
+      "heritageClass": "maratha",
+      "featured": false,
+      "built": "Medieval island fort",
+      "elevationM": 0,
+      "difficulty": "easy",
+      "bestSeason": {
+        "from": 10,
+        "to": 3
+      },
+      "accessibilityEn": "Road to Arnala village, then a short local crossing or walk to the island fort; ask locally about current access.",
+      "accessibilityMr": "अर्नाळा गावापर्यंत रस्ता, नंतर बेटावरील किल्ल्यापर्यंत छोटा स्थानिक प्रवास किंवा पायी मार्ग; सध्याच्या प्रवेशाबद्दल स्थानिकांकडून विचारा.",
+      "historyEn": "Arnala is an island fort off the port town of Arnala, about 13 km north of Vasai. Also called Jaldurg, it was declared a protected national monument in 1909; its walls, bastions and a temple occupy the small island. The Vaitarna river meets the sea nearby.",
+      "historyMr": "अर्नाळा वसईच्या उत्तरेस सुमारे १३ किमी अंतरावरील अर्नाळा बंदराजवळील बेटावरील किल्ला आहे. जलदुर्ग म्हणूनही ओळखला जाणारा हा किल्ला १९०९ मध्ये राष्ट्रीय संरक्षित स्मारक घोषित झाला; तटबंदी, बुरुज आणि मंदिर लहान बेटावर आहेत. वैतरणा नदी जवळच समुद्राला मिळते.",
+      "travelEn": "From Vasai-Virar, reach Arnala by road; check the current boat or bridge access before visiting.",
+      "travelMr": "वसई-विरारहून रस्त्याने अर्नाळ्याला जा; भेटीपूर्वी सध्याचा बोट किंवा पूल प्रवेश तपासा.",
+      "wikiTitle": "Arnala fort",
+      "sources": [
+        {
+          "title": "Arnala Fort — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Arnala_fort",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "vasai-fort",
+      "sourceName": "Vasai Fort",
+      "name": "Vasai Fort",
+      "nameMr": "वसई किल्ला",
+      "aliases": [
+        "Fort Bassein",
+        "Fortaleza de San Sebastião"
+      ],
+      "category": "land",
+      "heritageClass": "portuguese",
+      "featured": false,
+      "built": "Portuguese fort; captured by the Marathas in 1739",
+      "elevationM": 0,
+      "difficulty": "easy",
+      "bestSeason": {
+        "from": 10,
+        "to": 3
+      },
+      "accessibilityEn": "Accessible by road from Vasai Road railway station; the large site is explored on foot.",
+      "accessibilityMr": "वसई रोड रेल्वे स्थानकाहून रस्त्याने प्रवेश; मोठा परिसर पायी पाहता येतो.",
+      "historyEn": "Vasai Fort, or Fortaleza de San Sebastião, was the second-most important Portuguese centre in India after Goa until its capture in 1739. The Marathas took it under Chimaji Appa, and the ruined walls, churches and gates now form a large heritage site protected by the ASI.",
+      "historyMr": "वसई किल्ला (फोर्तालेझा दे सान सेबास्तियाओ) १७३९ मध्ये ताब्यात येण्यापूर्वी गोव्यानंतर भारतातील पोर्तुगीजांचे दुसरे महत्त्वाचे केंद्र होता. चिमाजी अप्पांच्या नेतृत्वाखाली मराठ्यांनी तो जिंकला; अवशेष तटबंदी, चर्च आणि प्रवेशद्वारे आता ASI-संरक्षित मोठे वारसा स्थळ आहेत.",
+      "travelEn": "Vasai is served by Vasai Road railway station; the fort is a short auto-rickshaw ride away.",
+      "travelMr": "वसई रोड रेल्वे स्थानकावरून वसईला पोहोचता येते; किल्ला जवळच असून रिक्षाने जाता येते.",
+      "wikiTitle": "Fort Vasai",
+      "sources": [
+        {
+          "title": "Vasai Fort — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fort_Vasai",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "malhargad-fort",
+      "sourceName": "Malhargad",
+      "name": "Malhargad Fort",
+      "nameMr": "मल्हारगड",
+      "aliases": [
+        "Sonori Fort"
+      ],
+      "category": "hill",
+      "heritageClass": "maratha",
+      "featured": false,
+      "built": "1775; last fort built by the Marathas",
+      "elevationM": null,
+      "difficulty": "easy",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Short climb from Sonori village near Saswad, with some steps near the top.",
+      "accessibilityMr": "सासवडजवळील सोनोरी गावाहून लहान चढाई; वर काही पायऱ्या.",
+      "historyEn": "Malhargad, also called Sonori Fort, was the last fort built by the Marathas in 1775. It stands near Saswad, about 30 km from Pune, and was intended to watch the Dive ghat route. The trek from Sonori village is short.",
+      "historyMr": "मल्हारगड (सोनोरी किल्ला) १७७५ मध्ये मराठ्यांनी बांधलेला शेवटचा किल्ला होता. तो पुण्यापासून सुमारे ३० किमी अंतरावर सासवडजवळ आहे आणि दिवे घाटाच्या मार्गावर नजर ठेवण्यासाठी बांधला गेला. सोनोरी गावाहून चढाई लहान आहे.",
+      "travelEn": "Base at Sonori near Saswad; a short climb suitable for a morning outing.",
+      "travelMr": "सासवडजवळील सोनोरी हे पायथ्याचे गाव; सकाळच्या सहलीसाठी योग्य लहान चढाई.",
+      "wikiTitle": "Malhargad",
+      "sources": [
+        {
+          "title": "Malhargad — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Malhargad",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "kalavantin-durg",
+      "sourceName": "Kalavantin Durg",
+      "name": "Kalavantin Durg",
+      "nameMr": "कलावंतीण दुर्ग",
+      "aliases": [
+        "Kalavantin Pinnacle",
+        "Kelve Teen"
+      ],
+      "category": "pinnacle",
+      "heritageClass": "maratha",
+      "featured": false,
+      "built": "Medieval",
+      "elevationM": 686,
+      "difficulty": "very_hard",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Trek from Thakurwadi via Prabalmachi, then steep rock-cut steps; exposed and unsafe when wet.",
+      "accessibilityMr": "ठाकुरवाडीहून प्रबळमाचीमार्गे पायी प्रवास, नंतर तीव्र खडकात कोरलेल्या पायऱ्या; पावसात धोकादायक.",
+      "historyEn": "Kalavantin Durg is a 686 m pinnacle beside Prabalgad in Raigad district, reached by steep rock-cut steps. It is a demanding trek with exposed sections; the summit offers wide views of the Matheran and Panvel region. It is not suitable for beginners in wet weather.",
+      "historyMr": "कलावंतीण दुर्ग रायगड जिल्ह्यातील प्रबळगडाच्या शेजारील ६८६ मीटर उंच शिखर आहे; तेथे तीव्र खडकात कोरलेल्या पायऱ्यांनी जाता येते. ही जोखमीची चढाई आहे आणि पावसाळ्यात नवशिक्यांसाठी योग्य नाही; शिखरावरून माथेरान व पनवेल परिसराचे विस्तृत दृश्य दिसते.",
+      "travelEn": "Base at Thakurwadi, via Prabalmachi; a local guide is advisable for the final rock section.",
+      "travelMr": "ठाकुरवाडी हे पायथ्याचे गाव, प्रबळमाचीमार्गे जा; शेवटच्या खडकाळ भागासाठी स्थानिक वाटाड्या घेणे उपयुक्त.",
+      "wikiTitle": "Kalavantin Durg",
+      "sources": [
+        {
+          "title": "Kalavantin Durg — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kalavantin_Durg",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "prabalgad-fort",
+      "sourceName": "Prabalgad",
+      "name": "Prabalgad Fort",
+      "nameMr": "प्रबळगड",
+      "aliases": [
+        "Muranjan",
+        "Pradhangad"
+      ],
+      "category": "hill",
+      "heritageClass": "maratha",
+      "featured": false,
+      "built": "Medieval; renamed under Maratha rule",
+      "elevationM": 700,
+      "difficulty": "moderate",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Trek from Thakurwadi via Prabalmachi; a steady climb with village stays on the plateau.",
+      "accessibilityMr": "ठाकुरवाडीहून प्रबळमाचीमार्गे पायी प्रवास; सातत्यपूर्ण चढाई आणि पठारावर गावातील निवासाची सोय.",
+      "historyEn": "Prabalgad, earlier Muranjan, stands between Matheran and Panvel at about 700 m. It was renamed by the Marathas and is usually climbed from Thakurwadi via Prabalmachi. The plateau holds ruins and views toward Kalavantin and Matheran.",
+      "historyMr": "प्रबळगड (पूर्वी मुरांजन) माथेरान आणि पनवेलच्या दरम्यान सुमारे ७०० मीटर उंचीवर आहे. मराठ्यांनी त्याचे नाव बदलले; सहसा ठाकुरवाडीहून प्रबळमाचीमार्गे चढाई केली जाते. पठारावर अवशेष आणि कलावंतीण व माथेरानकडील दृश्ये आहेत.",
+      "travelEn": "Trek from Thakurwadi via Prabalmachi; the village has basic food and stay options.",
+      "travelMr": "ठाकुरवाडीहून प्रबळमाचीमार्गे पायी जा; गावात साधारण अन्न व निवासाची सोय आहे.",
+      "wikiTitle": "Prabalgad",
+      "sources": [
+        {
+          "title": "Prabalgad — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Prabalgad",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "sajjangad-fort",
+      "sourceName": "Sajjangad",
+      "name": "Sajjangad Fort",
+      "nameMr": "सज्जनगड",
+      "aliases": [
+        "Parali"
+      ],
+      "category": "hill",
+      "heritageClass": "maratha",
+      "featured": false,
+      "built": "Medieval; associated with Sant Ramdas",
+      "elevationM": null,
+      "difficulty": "easy",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Road and bus access to the top, with a short walk from the parking area.",
+      "accessibilityMr": "वरपर्यंत रस्ता व बस सुविधा, पार्किंगजवळून लहान पायी प्रवास.",
+      "historyEn": "Sajjangad, 'Fort of Good People', is the final resting place of Sant Ramdas and a pilgrimage site near Satara. The fort is also called Parali and has temples, a math and fortification walls. It is easily reached by road.",
+      "historyMr": "सज्जनगड ('सज्जन लोकांचा किल्ला') साताऱ्याजवळ संत रामदासांचे समाधीस्थान आणि तीर्थक्षेत्र आहे. किल्ल्याला परळी असेही म्हणतात; येथे मंदिरे, मठ आणि तटबंदी आहे. रस्त्याने तेथे सहज पोहोचता येते.",
+      "travelEn": "Near Satara; road/bus access reaches the top. Dress respectfully around the samadhi and math.",
+      "travelMr": "साताऱ्याजवळ; रस्ता/बस वरपर्यंत पोहोचते. समाधी व मठ परिसरात औपचारिक वेशात जा.",
+      "wikiTitle": "Sajjangad",
+      "sources": [
+        {
+          "title": "Sajjangad — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sajjangad",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "vishalgad-fort",
+      "sourceName": "Vishalgad",
+      "name": "Vishalgad Fort",
+      "nameMr": "विशाळगड",
+      "aliases": [
+        "Khelna",
+        "Vishalgarh"
+      ],
+      "category": "hill",
+      "heritageClass": "shilahara",
+      "featured": false,
+      "built": "1178–1209",
+      "elevationM": null,
+      "difficulty": "moderate",
+      "bestSeason": {
+        "from": 10,
+        "to": 2
+      },
+      "accessibilityEn": "Road access to the plateau near Shahuwadi, then a walk through the fort.",
+      "accessibilityMr": "शाहूवाडीजवळ पठारापर्यंत रस्ता, नंतर किल्ल्यातून पायी फेरफटका.",
+      "historyEn": "Vishalgad, also Khelna, was built by Shilahara ruler Bhoja II between 1178 and 1209 and later became a Maratha fort. It is associated with Shivaji Maharaj's 1660 escape from Panhala and the last stand of Bajiprabhu Deshpande at nearby Pavan Khind. Its walls and gates survive in ruins.",
+      "historyMr": "विशाळगड (खेलणा) शिलाहार राजा भोज दुसरा यांनी ११७८ ते १२०९ दरम्यान बांधला आणि नंतर मराठा किल्ला बनला. १६६० मध्ये शिवाजी महाराजांच्या पन्हाळ्याहून पलायनाशी आणि जवळच्या पावन खिंडीत बाजीप्रभू देशपांडेंच्या शेवटच्या लढ्याशी तो जोडलेला आहे. त्याच्या तटबंद्या व प्रवेशद्वारे अवशेष स्वरूपात आहेत.",
+      "travelEn": "Reach Shahuwadi in Kolhapur district by road, then continue to the fort plateau.",
+      "travelMr": "कोल्हापूर जिल्ह्यातील शाहूवाडीपर्यंत रस्त्याने जा, नंतर किल्ल्याच्या पठारापर्यंत चला.",
+      "wikiTitle": "Vishalgad",
+      "sources": [
+        {
+          "title": "Vishalgad — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vishalgad",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "padmadurg-fort",
+      "sourceName": "Padmadurg",
+      "name": "Padmadurg Fort",
+      "nameMr": "पद्मदुर्ग",
+      "aliases": [
+        "Kasa Fort"
+      ],
+      "category": "sea",
+      "heritageClass": "maratha",
+      "featured": false,
+      "built": "17th century",
+      "elevationM": 0,
+      "difficulty": "hard",
+      "bestSeason": {
+        "from": 10,
+        "to": 3
+      },
+      "accessibilityEn": "Boat access near Murud with advance permission; not a casual visitor site.",
+      "accessibilityMr": "मुरुडजवळ आगाऊ परवानगीने बोटीने प्रवेश; सहज पर्यटनस्थळ नाही.",
+      "historyEn": "Padmadurg, or Kasa Fort, is one of the sea forts built under Shivaji Maharaj and lies off the Raigad coast. It was built to watch Murud-Janjira and also served as a shipbuilding yard. The fort is partly ruined and access needs special permission.",
+      "historyMr": "पद्मदुर्ग (कासा किल्ला) शिवाजी महाराजांच्या काळात बांधलेल्या समुद्री किल्ल्यांपैकी एक असून रायगड किनारपट्टीजवळ आहे. मुरुड-जंजिऱ्यावर नजर ठेवण्यासाठी तो बांधला गेला आणि जहाजबांधणीचे केंद्रही होता. किल्ला अंशतः अवशेष आहे आणि प्रवेशासाठी विशेष परवानगी लागते.",
+      "travelEn": "Arrange a boat and permission locally around Murud; do not attempt an unscheduled landing.",
+      "travelMr": "मुरुड परिसरात स्थानिक पातळीवर बोट व परवानगीची व्यवस्था करा; पूर्वनियोजनाशिवाय उतरण्याचा प्रयत्न करू नका.",
+      "wikiTitle": "Padmadurg",
+      "sources": [
+        {
+          "title": "Padmadurg — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Padmadurg",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "khanderi-fort",
+      "sourceName": "Khanderi",
+      "name": "Khanderi Fort",
+      "nameMr": "खांदेरी",
+      "aliases": [
+        "Kanhoji Angre Island"
+      ],
+      "category": "sea",
+      "heritageClass": "maratha",
+      "featured": false,
+      "built": "17th century",
+      "elevationM": 0,
+      "difficulty": "moderate",
+      "bestSeason": {
+        "from": 10,
+        "to": 3
+      },
+      "accessibilityEn": "Boat access from the Alibaug/Raigad coast; check local services and permissions.",
+      "accessibilityMr": "अलिबाग/रायगड किनाऱ्यावरून बोटीने प्रवेश; स्थानिक सेवा व परवानगी तपासा.",
+      "historyEn": "Khanderi, officially Kanhoji Angre Island, is an island fort south of Mumbai. It was contested by the Marathas and the Siddis in the late 17th century; the island now has a lighthouse and fort ruins.",
+      "historyMr": "खांदेरी (अधिकृतपणे कान्होजी आंग्रे बेट) मुंबईच्या दक्षिणेस असलेला बेटावरील किल्ला आहे. १७व्या शतकाच्या उत्तरार्धात मराठे आणि सिद्दी यांमध्ये त्यावरून संघर्ष झाला; बेटावर आता दीपगृह आणि किल्ल्याचे अवशेष आहेत.",
+      "travelEn": "Arrange a boat locally from the Raigad coast; crossings depend on sea conditions.",
+      "travelMr": "रायगड किनाऱ्यावरून स्थानिक बोटीची व्यवस्था करा; प्रवास समुद्राच्या स्थितीवर अवलंबून.",
+      "wikiTitle": "Khanderi",
+      "sources": [
+        {
+          "title": "Khanderi — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Khanderi",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "belapur-fort",
+      "sourceName": "Belapur Fort",
+      "name": "Belapur Fort",
+      "nameMr": "बेलापूर",
+      "aliases": [
+        "Belapur Killa"
+      ],
+      "category": "hill",
+      "heritageClass": "siddi",
+      "featured": false,
+      "built": "16th–17th century",
+      "elevationM": null,
+      "difficulty": "easy",
+      "bestSeason": {
+        "from": 10,
+        "to": 3
+      },
+      "accessibilityEn": "In Navi Mumbai, reachable by suburban rail and road; a short urban walk.",
+      "accessibilityMr": "नवी मुंबईत उपनगरीय रेल्वे व रस्त्याने पोहोचता येते; लहान शहरी पायी प्रवास.",
+      "historyEn": "Belapur Fort near Navi Mumbai was built by the Siddis of Janjira and later held by the Portuguese, Marathas and British. It lost importance as the Bombay Presidency expanded and now stands as a ruin in the city.",
+      "historyMr": "नवी मुंबईजवळील बेलापूर किल्ला जंजिऱ्याच्या सिद्दींनी बांधला आणि नंतर पोर्तुगीज, मराठे व ब्रिटिशांच्या ताब्यात राहिला. बॉम्बे प्रेसिडेन्सीच्या विस्तारानंतर त्याचे महत्त्व कमी झाले आणि आज तो शहरातील अवशेष म्हणून उभा आहे.",
+      "travelEn": "Use Navi Mumbai suburban rail or road; the fort is a short walk from the surrounding township.",
+      "travelMr": "नवी मुंबई उपनगरीय रेल्वे किंवा रस्ता वापरा; आसपासच्या टाउनशिपपासून किल्ला पायी जवळ आहे.",
+      "wikiTitle": "Belapur Fort",
+      "sources": [
+        {
+          "title": "Belapur Fort — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Belapur_Fort",
+          "publisher": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "slug": "worli-fort",
+      "sourceName": "Worli Fort",
+      "name": "Worli Fort",
+      "nameMr": "वरळी",
+      "aliases": [
+        "Worli Killa"
+      ],
+      "category": "sea",
+      "heritageClass": "british",
+      "featured": false,
+      "built": "Around 1675",
+      "elevationM": 0,
+      "difficulty": "easy",
+      "bestSeason": {
+        "from": 10,
+        "to": 3
+      },
+      "accessibilityEn": "In Worli, Mumbai; accessible by road and local rail with a short walk.",
+      "accessibilityMr": "मुंबईतील वरळी येथे; रस्ता व स्थानिक रेल्वेने पोहोचून लहान पायी प्रवास.",
+      "historyEn": "Worli Fort was built by the British around 1675 on Worli Hill as a lookout over Mahim Bay. It is a small coastal fort with walls and bastions, set beside one of Mumbai's oldest fishing communities.",
+      "historyMr": "वरळी किल्ला ब्रिटिशांनी सुमारे १६७५ मध्ये वरळी टेकडीवर महीमच्या खाडीवर नजर ठेवण्यासाठी बांधला. लहान किनारी किल्ल्याला तटबंदी व बुरुज असून तो मुंबईतील सर्वात जुन्या मच्छीमार समाजांपैकी एकाच्या शेजारी आहे.",
+      "travelEn": "Reach Worli by road or local rail; the fort is a short walk from the main road.",
+      "travelMr": "रस्ता किंवा स्थानिक रेल्वेने वरळीला जा; मुख्य रस्त्यापासून किल्ला पायी जवळ आहे.",
+      "wikiTitle": "Worli Fort",
+      "sources": [
+        {
+          "title": "Worli Fort — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Worli_Fort",
+          "publisher": "Wikipedia"
+        }
+      ]
+    }
+  ]
+}

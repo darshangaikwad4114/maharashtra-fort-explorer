@@ -1,0 +1,372 @@
+{
+  "raigad-fort": {
+    "src": "/images/forts/raigad-fort.jpg",
+    "width": 1728,
+    "height": 1152,
+    "author": "Nilamgandhre",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nagarkhana,_Raigad_Fort,_India.jpg",
+    "caption": "Raigad Fort — photo: Nilamgandhre (CC BY-SA 4.0)"
+  },
+  "rajgad-fort": {
+    "src": "/images/forts/rajgad-fort.jpg",
+    "width": 6016,
+    "height": 4016,
+    "author": "Rohan sangodkar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suvela_machi,Rajgad_fort,_Maharashtra,India_July2015.jpg",
+    "caption": "Rajgad Fort — photo: Rohan sangodkar (CC BY-SA 4.0)"
+  },
+  "torna-fort": {
+    "src": "/images/forts/torna-fort.jpg",
+    "width": 3264,
+    "height": 1836,
+    "author": "Sopan Patil",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Torna_Fort_aka_Kille_Prachangad.jpg",
+    "caption": "Torna Fort — photo: Sopan Patil (CC BY-SA 4.0)"
+  },
+  "sinhagad-fort": {
+    "src": "/images/forts/sinhagad-fort.jpg",
+    "width": 1296,
+    "height": 972,
+    "author": "Amit mitkar at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sinhagad.jpg",
+    "caption": "Sinhagad — photo: Amit mitkar at English Wikipedia (CC BY-SA 3.0)"
+  },
+  "pratapgad-fort": {
+    "src": "/images/forts/pratapgad-fort.jpg",
+    "width": 3008,
+    "height": 2000,
+    "author": "Neeraj Rane",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pratapgad_The_Fort_of_Valour.jpg",
+    "caption": "Pratapgad Fort — photo: Neeraj Rane (CC BY-SA 4.0)"
+  },
+  "shivneri-fort": {
+    "src": "/images/forts/shivneri-fort.jpg",
+    "width": 1776,
+    "height": 1072,
+    "author": "Milind.dumbare at English Wikipedia",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shivneri_fort1.JPG",
+    "caption": "Shivneri Fort — photo: Milind.dumbare at English Wikipedia (Public domain)"
+  },
+  "lohagad-fort": {
+    "src": "/images/forts/lohagad-fort.jpg",
+    "width": 6988,
+    "height": 4355,
+    "author": "Rangan Datta Wiki",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_the_bastions_of_Lohagad_Fort_2.jpg",
+    "caption": "Lohagad Fort — photo: Rangan Datta Wiki (CC BY-SA 4.0)"
+  },
+  "visapur-fort": {
+    "src": "/images/forts/visapur-fort.jpg",
+    "width": 2612,
+    "height": 2004,
+    "author": "shripophali",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fortification_wall_at_visapur.jpg",
+    "caption": "Visapur Fort — photo: shripophali (CC BY 2.0)"
+  },
+  "harishchandragad-fort": {
+    "src": "/images/forts/harishchandragad-fort.jpg",
+    "width": 3888,
+    "height": 2592,
+    "author": "Cj.samson",
+    "license": "GFDL 1.2",
+    "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kalbhairav_pinnacle_Scj.jpg",
+    "caption": "Harishchandragad Fort — photo: Cj.samson (GFDL 1.2)"
+  },
+  "panhala-fort": {
+    "src": "/images/forts/panhala-fort.jpg",
+    "width": 4000,
+    "height": 3232,
+    "author": "Unknown author Unknown author",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Teen_darwaza_panhala.jpg",
+    "caption": "Panhala Fort — photo: Unknown author Unknown author (Public domain)"
+  },
+  "vijaydurg-fort": {
+    "src": "/images/forts/vijaydurg-fort.jpg",
+    "width": 3039,
+    "height": 2014,
+    "author": "Ravi Vaidyanathan",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bastions_of_vijaydurg.jpg",
+    "caption": "Vijaydurg Fort — photo: Ravi Vaidyanathan (CC BY 2.0)"
+  },
+  "sindhudurg-fort": {
+    "src": "/images/forts/sindhudurg-fort.jpg",
+    "width": 725,
+    "height": 345,
+    "author": "Sballal ( talk ) ( Uploads )",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sindhudurg_fort.JPG",
+    "caption": "Sindhudurg Fort — photo: Sballal ( talk ) ( Uploads ) (Public domain)"
+  },
+  "murud-janjira-fort": {
+    "src": "/images/forts/murud-janjira-fort.jpg",
+    "width": 1280,
+    "height": 853,
+    "author": "Dr. Raju Kasambe",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Murud-Janjira_Fort_near_Murud_Raigad_Maharashtra_DPP_0093_(2).JPG",
+    "caption": "Murud-Janjira Fort — photo: Dr. Raju Kasambe (CC BY-SA 3.0)"
+  },
+  "purandar-fort": {
+    "src": "/images/forts/purandar-fort.jpg",
+    "width": 3176,
+    "height": 2382,
+    "author": "Ashwin Baindur",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Purandar_Fort_-_AB.jpg",
+    "caption": "Purandar Fort — photo: Ashwin Baindur (CC BY-SA 4.0)"
+  },
+  "daulatabad-fort": {
+    "src": "/images/forts/daulatabad-fort.jpg",
+    "width": 3919,
+    "height": 2352,
+    "author": "Aak.jain54",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daulatabad_Fort_a_view.JPG",
+    "caption": "Daulatabad Fort — photo: Aak.jain54 (Public domain)"
+  },
+  "ajinkyatara-fort": {
+    "src": "/images/forts/ajinkyatara-fort.jpg",
+    "width": 6000,
+    "height": 4000,
+    "author": "Pratishkhedekar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Main_Gateway,_Ajinkyatara_02.jpg",
+    "caption": "Ajinkyatara Fort — photo: Pratishkhedekar (CC BY-SA 4.0)"
+  },
+  "korigad-fort": {
+    "src": "/images/forts/korigad-fort.jpg",
+    "width": 4569,
+    "height": 3052,
+    "author": "Rishabh Tatiraju",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korigad_from_Lonavla.JPG",
+    "caption": "Korigad Fort — photo: Rishabh Tatiraju (CC BY-SA 4.0)"
+  },
+  "tikona-fort": {
+    "src": "/images/forts/tikona-fort.jpg",
+    "width": 5056,
+    "height": 2436,
+    "author": "Rushil Fernandes",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tikona_Panorama.jpg",
+    "caption": "Tikona Fort — photo: Rushil Fernandes (CC BY-SA 3.0)"
+  },
+  "tung-fort": {
+    "src": "/images/forts/tung-fort.jpg",
+    "width": 1024,
+    "height": 624,
+    "author": "Smukherjee6",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tung_Fort.jpg",
+    "caption": "Tung Fort — photo: Smukherjee6 (CC BY-SA 4.0)"
+  },
+  "vasota-fort": {
+    "src": "/images/forts/vasota-fort.jpg",
+    "width": 1024,
+    "height": 516,
+    "author": "Ccmarathe",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vasota.jpg",
+    "caption": "Vasota Fort — photo: Ccmarathe (CC BY-SA 4.0)"
+  },
+  "salher-fort": {
+    "src": "/images/forts/salher-fort.jpg",
+    "width": 4608,
+    "height": 3456,
+    "author": "Bhushan Kotakar",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salher_Fort.jpg",
+    "caption": "Salher Fort — photo: Bhushan Kotakar (CC BY-SA 3.0)"
+  },
+  "narnala-fort": {
+    "src": "/images/forts/narnala-fort.jpg",
+    "width": 976,
+    "height": 577,
+    "author": "Robert Gill",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Narnala_fort.jpg",
+    "caption": "Narnala Fort — photo: Robert Gill (Public domain)"
+  },
+  "gawilghur-fort": {
+    "src": "/images/forts/gawilghur-fort.jpg",
+    "width": 700,
+    "height": 460,
+    "author": "C .SHELARE",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gawilgarh_Fort_-_C.SHELARE.jpg",
+    "caption": "Gawilghur Fort — photo: C .SHELARE (CC BY-SA 3.0)"
+  },
+  "kolaba-fort": {
+    "src": "/images/forts/kolaba-fort.jpg",
+    "width": 4272,
+    "height": 2848,
+    "author": "Chirag Upadhyay",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kolaba_Fort_-_Alibag.JPG",
+    "caption": "Kolaba Fort — photo: Chirag Upadhyay (CC BY-SA 4.0)"
+  },
+  "suvarnadurg-fort": {
+    "src": "/images/forts/suvarnadurg-fort.jpg",
+    "width": 2112,
+    "height": 2816,
+    "author": "AshLin",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrance_to_Suvarnadurg.JPG",
+    "caption": "Suvarnadurg Fort — photo: AshLin (CC BY-SA 3.0)"
+  },
+  "jaigad-fort": {
+    "src": "/images/forts/jaigad-fort.jpg",
+    "width": 2813,
+    "height": 1853,
+    "author": "Wikimedia Commons contributor",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jaigad_outerwall1.jpg",
+    "caption": "Jaigad Fort — photo: Wikimedia Commons contributor (Public domain)"
+  },
+  "arnala-fort": {
+    "src": "/images/forts/arnala-fort.jpg",
+    "width": 2592,
+    "height": 1944,
+    "author": "Damitr",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arnala-fort-entrance.jpg",
+    "caption": "Arnala Fort — photo: Damitr (CC BY-SA 3.0)"
+  },
+  "vasai-fort": {
+    "src": "/images/forts/vasai-fort.jpg",
+    "width": 912,
+    "height": 672,
+    "author": "Gladson Machado",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vasai_fort_building2.jpg",
+    "caption": "Vasai Fort — photo: Gladson Machado (CC BY-SA 3.0)"
+  },
+  "malhargad-fort": {
+    "src": "/images/forts/malhargad-fort.jpg",
+    "width": 1965,
+    "height": 1234,
+    "author": "rohit gowaikar",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malhargad_pinnacle.jpg",
+    "caption": "Malhargad Fort — photo: rohit gowaikar (CC BY-SA 2.0)"
+  },
+  "kalavantin-durg": {
+    "src": "/images/forts/kalavantin-durg.jpg",
+    "width": 1695,
+    "height": 1979,
+    "author": "rohit gowaikar",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kalavantinicha_Durga.jpg",
+    "caption": "Kalavantin Durg — photo: rohit gowaikar (CC BY-SA 2.0)"
+  },
+  "prabalgad-fort": {
+    "src": "/images/forts/prabalgad-fort.jpg",
+    "width": 4608,
+    "height": 2592,
+    "author": "Niteshsavane143",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prabal_machi.jpg",
+    "caption": "Prabalgad Fort — photo: Niteshsavane143 (CC BY-SA 4.0)"
+  },
+  "sajjangad-fort": {
+    "src": "/images/forts/sajjangad-fort.jpg",
+    "width": 3648,
+    "height": 2736,
+    "author": "Himanshu Sarpotdar",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sajjangad_entrance.jpg",
+    "caption": "Sajjangad Fort — photo: Himanshu Sarpotdar (CC BY 2.0)"
+  },
+  "vishalgad-fort": {
+    "src": "/images/forts/vishalgad-fort.jpg",
+    "width": 1536,
+    "height": 2048,
+    "author": "Ankur P",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Surviving_Structure_on_Vishalgad.jpg",
+    "caption": "Vishalgad Fort — photo: Ankur P (CC BY-SA 2.0)"
+  },
+  "padmadurg-fort": {
+    "src": "/images/forts/padmadurg-fort.jpg",
+    "width": 5184,
+    "height": 3456,
+    "author": "Pradeep Kumar N",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Surrounded_by.jpg",
+    "caption": "Padmadurg Fort — photo: Pradeep Kumar N (CC BY-SA 4.0)"
+  },
+  "khanderi-fort": {
+    "src": "/images/forts/khanderi-fort.jpg",
+    "width": 4608,
+    "height": 3456,
+    "author": "Anand Ranade",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Lighthouse,_Khanderi_Fort.jpg",
+    "caption": "Khanderi Fort — photo: Anand Ranade (CC BY-SA 4.0)"
+  },
+  "belapur-fort": {
+    "src": "/images/forts/belapur-fort.jpg",
+    "width": 2592,
+    "height": 1944,
+    "author": "Nicholas ( Nichalp )",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belapur_fort_1.jpg",
+    "caption": "Belapur Fort — photo: Nicholas ( Nichalp ) (CC BY-SA 3.0)"
+  },
+  "worli-fort": {
+    "src": "/images/forts/worli-fort.jpg",
+    "width": 4395,
+    "height": 3093,
+    "author": "Pradeep717",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Worli_Fort_Mumbai.jpg",
+    "caption": "Worli Fort — photo: Pradeep717 (CC BY-SA 4.0)"
+  }
+}
