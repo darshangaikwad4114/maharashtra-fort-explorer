@@ -287,27 +287,9 @@ export const en = {
     "Maharashtra Fort Explorer is designed, built and maintained by Darshan, a frontend and full-stack developer. The project pairs a verified fort catalogue with an interactive map, bilingual field notes and pages that keep working offline.",
   "about.portfolioCta": "View portfolio",
   "about.mapCta": "Open the map",
-  "about.statForts": "Forts mapped",
-  "about.statProfiles": "Reviewed profiles",
-  "about.statDistricts": "Districts",
-  "about.statLanguages": "Languages",
-  "about.statLanguagesValue": "English & Marathi",
   "about.projectTitle": "About the project",
   "about.projectBody":
     "A map-first field guide to 237 forts across Maharashtra, with district filters, nearby discovery, reviewed profiles, trek circuits, a sourced timeline and English–Marathi content. Coordinates and historical notes come from linked sources and are never generated at request time.",
-  "about.stackTitle": "Technology",
-  "about.stackBody":
-    "The stack favours static delivery and fast maps: pages are prerendered, the catalogue ships as a verified dataset, and the optional account layer stays off until Supabase is configured.",
-  "about.stackFramework": "Framework",
-  "about.stackInterface": "Interface",
-  "about.stackMaps": "Maps",
-  "about.stackData": "Data & backend",
-  "about.stackQuality": "Quality & checks",
-  "about.stackDelivery": "Delivery & hosting",
-  "about.dataTitle": "Data & attribution",
-  "about.dataBody":
-    "Every record carries a coordinate status and a profile status. Reviewed profiles cite their sources and review dates, map tiles come from OpenStreetMap contributors under the ODbL, and photographs retain their Wikimedia Commons licences.",
-  "about.dataCta": "How the data was built",
   "about.developerTitle": "Developer",
   "about.developerBody":
     "Darshan designed and built this site end to end: the map explorer, the bilingual content system, the verified data pipeline and the production deployment. The portfolio below covers further work.",
