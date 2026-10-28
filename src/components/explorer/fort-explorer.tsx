@@ -535,6 +535,7 @@ export function FortExplorer({ forts, districts, curatedCount }: ExplorerProps) 
         </aside>
 
         <section className="relative min-h-0 flex-1">
+          <h1 className="sr-only lg:hidden">{t("explorer.title")}</h1>
           <FortMap
             forts={filtered}
             selectedSlug={selectedFort?.slug ?? null}
