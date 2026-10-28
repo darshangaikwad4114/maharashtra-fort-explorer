@@ -11,7 +11,7 @@
     "data:wiki": "node scripts/data/fetch-wikipedia.mjs",
     "data:images": "node scripts/data/download-images.mjs",
     "db:seed": "tsx scripts/db/seed-supabase.ts",
-    "typecheck": "tsc --noEmit",
+    "typecheck": "next typegen && tsc --noEmit",
     "verify": "npm run typecheck && npm run lint && npm run build",
     "deploy:preview": "vercel",
     "deploy:prod": "vercel --prod"

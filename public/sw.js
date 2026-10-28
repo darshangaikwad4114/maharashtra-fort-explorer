@@ -1,4 +1,4 @@
-const CACHE_VERSION = "mfe-v1";
+const CACHE_VERSION = "mfe-v2";
 const SHELL_CACHE = `${CACHE_VERSION}-shell`;
 const ASSET_CACHE = `${CACHE_VERSION}-assets`;
 const OFFLINE_URL = "/offline";
