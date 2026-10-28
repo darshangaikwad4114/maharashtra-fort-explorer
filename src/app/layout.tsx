@@ -95,6 +95,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     <html
       lang="en"
       data-locale="en"
+      data-scroll-behavior="smooth"
       className={`${inter.variable} ${fraunces.variable} ${notoDeva.variable}`}
     >
       <body className="min-h-dvh antialiased">
