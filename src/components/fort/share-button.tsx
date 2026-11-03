@@ -3,8 +3,15 @@
 import { Share2 } from "lucide-react";
 import { toast } from "sonner";
 import { useI18n } from "@/components/providers/locale-provider";
+import { cn } from "@/lib/utils";
 
-export function ShareButton({ name }: { name: string }) {
+export function ShareButton({
+  name,
+  iconOnly = false,
+}: {
+  name: string;
+  iconOnly?: boolean;
+}) {
   const { t } = useI18n();
 
   async function handleShare() {
@@ -32,10 +39,14 @@ export function ShareButton({ name }: { name: string }) {
     <button
       type="button"
       onClick={() => void handleShare()}
-      className="inline-flex h-10 items-center gap-2 rounded-full border border-line-strong bg-parchment px-4 text-sm font-medium text-ink-soft transition-colors hover:border-saffron/50 hover:text-saffron-deep"
+      aria-label={t("fort.share")}
+      className={cn(
+        "inline-flex items-center border border-line-strong bg-parchment text-ink-soft transition-colors hover:border-saffron/50 hover:text-saffron-deep",
+        iconOnly ? "size-10 justify-center rounded-full" : "h-10 gap-2 rounded-full px-4 text-sm font-medium",
+      )}
     >
       <Share2 className="size-4" aria-hidden="true" />
-      {t("fort.share")}
+      {iconOnly ? null : t("fort.share")}
     </button>
   );
 }

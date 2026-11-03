@@ -7,6 +7,7 @@ import { PwaRegister } from "@/components/pwa/pwa-register";
 import { SiteHeader } from "@/components/layout/site-header";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { developer, siteUrl } from "@/content/site";
+import { translate } from "@/lib/i18n";
 import "./globals.css";
 
 const inter = Inter({
@@ -33,12 +34,11 @@ const notoDeva = Noto_Sans_Devanagari({
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "Maharashtra Fort Explorer — map, history and trek guides",
-    template: "%s · Maharashtra Fort Explorer",
+    default: translate("en", "meta.homeTitle"),
+    template: `%s · ${translate("en", "app.name")}`,
   },
-  description:
-    "Explore 237 geolocated forts across Maharashtra on an interactive map, with district filters, nearby forts, reviewed profiles and source-linked history.",
-  applicationName: "Maharashtra Fort Explorer",
+  description: translate("en", "meta.homeDescription"),
+  applicationName: translate("en", "app.name"),
   keywords: [
     "Maharashtra forts",
     "Maratha forts",
@@ -51,30 +51,22 @@ export const metadata: Metadata = {
   authors: [{ name: developer.name, url: developer.portfolio }],
   creator: developer.name,
   publisher: developer.name,
-  alternates: { canonical: "/" },
   openGraph: {
     type: "website",
     locale: "en_IN",
     alternateLocale: "mr_IN",
-    siteName: "Maharashtra Fort Explorer",
-    title: "Maharashtra Fort Explorer",
-    description:
-      "A field guide to the forts of Maharashtra: an interactive map, reviewed profiles and source-linked history.",
     url: "/",
     images: [
       {
         url: "/og.png",
         width: 1200,
         height: 630,
-        alt: "Maharashtra Fort Explorer — a field guide to the forts of Maharashtra",
+        alt: translate("en", "meta.homeTitle"),
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Maharashtra Fort Explorer",
-    description:
-      "An interactive map and field guide to the forts of Maharashtra.",
     images: ["/og.png"],
   },
   manifest: "/manifest.webmanifest",

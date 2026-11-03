@@ -2,10 +2,9 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { ArrowRight, X } from "lucide-react";
+import { AlertTriangle, ArrowRight, X } from "lucide-react";
 import { FavoriteButton } from "@/components/favorites/favorite-button";
 import { useI18n } from "@/components/providers/locale-provider";
-import { Badge } from "@/components/ui/badge";
 import { districtLabel } from "@/lib/i18n";
 import { formatDistance } from "@/lib/geo";
 import type { MapFort } from "@/types";
@@ -20,76 +19,56 @@ export function FortPeek({
   onClose: () => void;
 }) {
   const { t, locale } = useI18n();
-  const displayName = locale === "mr" && fort.nameMr ? fort.nameMr : fort.name;
+  const name = locale === "mr" && fort.nameMr ? fort.nameMr : fort.name;
+
+  const meta = [
+    fort.district ? districtLabel(locale, fort.district) : null,
+    fort.category ? t(`category.${fort.category}` as const) : null,
+    typeof distance === "number" ? formatDistance(distance, locale) : null,
+  ].filter(Boolean) as string[];
 
   return (
-    <div className="pointer-events-auto w-full animate-fade-rise overflow-hidden rounded-2xl border border-line-strong bg-parchment shadow-lift">
-      <div className="flex gap-3 p-2.5">
-        <div className="relative size-[88px] shrink-0 overflow-hidden rounded-xl bg-parchment-sunk">
-          {fort.image ? (
-            <Image
-              src={fort.image}
-              alt={displayName}
-              fill
-              sizes="88px"
-              className="object-cover"
-            />
-          ) : (
-            <div className="flex h-full items-center justify-center text-[10px] uppercase tracking-wide text-ink-muted">
-              {t("status.catalog")}
-            </div>
-          )}
-        </div>
+    <div className="pointer-events-auto flex w-full animate-fade-rise items-center gap-3 rounded-2xl border border-line-strong bg-parchment p-2.5 shadow-lift">
+      <div className="relative size-[64px] shrink-0 overflow-hidden rounded-xl bg-parchment-sunk">
+        {fort.image ? (
+          <Image src={fort.image} alt={name} fill sizes="64px" className="object-cover" />
+        ) : null}
+      </div>
 
-        <div className="min-w-0 flex-1">
-          <div className="flex items-start justify-between gap-2">
-            <div className="min-w-0">
-              <h2 className="truncate font-display text-base font-semibold leading-tight text-ink">
-                {displayName}
-              </h2>
-              <p className="mt-0.5 truncate text-[11px] text-ink-muted">
-                {[fort.district ? districtLabel(locale, fort.district) : null, fort.category ? t(`category.${fort.category}` as const) : null]
-                  .filter(Boolean)
-                  .join(" · ")}
-              </p>
-            </div>
-            <button
-              type="button"
-              onClick={onClose}
-              aria-label={t("common.close")}
-              className="grid size-7 shrink-0 place-items-center rounded-full text-ink-muted hover:bg-parchment-deep hover:text-ink"
-            >
-              <X className="size-3.5" aria-hidden="true" />
-            </button>
-          </div>
+      <div className="min-w-0 flex-1">
+        <h2 className="flex min-w-0 items-center gap-1.5 font-display text-[15px] font-semibold leading-tight text-ink">
+          <span className="truncate">{name}</span>
+          {fort.coordinateStatus === "flagged" ? (
+            <>
+              <AlertTriangle className="size-3.5 shrink-0 text-flag" aria-hidden="true" />
+              <span className="sr-only">{t("status.flagged")}</span>
+            </>
+          ) : null}
+        </h2>
+        {meta.length ? (
+          <p className="mt-0.5 truncate text-[11px] text-ink-muted">
+            {meta.join(" · ")}
+          </p>
+        ) : null}
+      </div>
 
-          <div className="mt-2 flex flex-wrap items-center gap-1.5">
-            {fort.profileStatus === "curated" ? (
-              <Badge variant="forest">{t("status.curated")}</Badge>
-            ) : (
-              <Badge variant="outline">{t("status.catalog")}</Badge>
-            )}
-            {fort.coordinateStatus === "flagged" ? (
-              <Badge variant="flag">{t("status.flagged")}</Badge>
-            ) : null}
-            {typeof distance === "number" ? (
-              <Badge variant="outline">
-                {formatDistance(distance, locale)}
-              </Badge>
-            ) : null}
-          </div>
-
-          <div className="mt-2.5 flex items-center justify-between gap-2">
-            <Link
-              href={`/forts/${fort.slug}`}
-              className="inline-flex items-center gap-1 text-xs font-semibold text-saffron-deep hover:underline"
-            >
-              {t("explorer.viewProfile")}
-              <ArrowRight className="size-3.5" aria-hidden="true" />
-            </Link>
-            <FavoriteButton slug={fort.slug} variant="plain" withLabel />
-          </div>
-        </div>
+      <div className="flex shrink-0 items-center gap-1">
+        <FavoriteButton slug={fort.slug} variant="plain" className="size-8 rounded-full" />
+        <Link
+          href={`/forts/${fort.slug}`}
+          className="inline-flex items-center gap-1 rounded-full bg-saffron px-3.5 py-2 text-xs font-medium text-white transition-colors hover:bg-saffron-deep"
+        >
+          {t("explorer.viewProfile")}
+          <ArrowRight className="size-3.5" aria-hidden="true" />
+        </Link>
+        <button
+          type="button"
+          onClick={onClose}
+          aria-label={t("common.close")}
+          className="grid size-8 place-items-center rounded-full text-ink-muted transition-colors hover:bg-parchment-deep hover:text-ink"
+        >
+          <X className="size-3.5" aria-hidden="true" />
+        </button>
       </div>
     </div>
   );

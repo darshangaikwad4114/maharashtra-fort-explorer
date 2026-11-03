@@ -14,17 +14,12 @@ export default function OfflinePage() {
       <h1 className="mt-6 font-display text-3xl font-semibold text-ink">
         You are offline
       </h1>
-      <p className="mt-3 text-sm leading-relaxed text-ink-muted">
-        Pages you have already visited stay available, including saved forts.
-        Reconnect to explore the rest of the map.
-      </p>
-      <p lang="mr" className="mt-2 text-sm leading-relaxed text-ink-muted">
-        तुम्ही भेट दिलेली पाने आणि जतन केलेले किल्ले ऑफलाइन उपलब्ध राहतात.
-        उर्वरित नकाशा पाहण्यासाठी इंटरनेटशी जोडा.
+      <p className="mt-3 max-w-sm text-sm leading-relaxed text-ink-muted">
+        Pages you have already visited stay available.
       </p>
       <Link
         href="/"
-        className="mt-8 inline-flex h-11 items-center rounded-full bg-saffron px-6 text-sm font-medium text-white hover:bg-saffron-deep"
+        className="mt-8 inline-flex h-11 items-center rounded-full bg-saffron px-6 text-sm font-medium text-white transition-colors hover:bg-saffron-deep"
       >
         Back to the map
       </Link>

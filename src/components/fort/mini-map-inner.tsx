@@ -3,23 +3,15 @@
 import { MapContainer, Marker, TileLayer, ZoomControl } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import { createFortIcon } from "@/components/explorer/map-icons";
-import type { FortCategory } from "@/types";
 
 export type MiniMapProps = {
   lat: number;
   lon: number;
   name: string;
-  category: FortCategory | null;
   flagged: boolean;
 };
 
-export function FortMiniMapInner({
-  lat,
-  lon,
-  name,
-  category,
-  flagged,
-}: MiniMapProps) {
+export function FortMiniMapInner({ lat, lon, name, flagged }: MiniMapProps) {
   return (
     <MapContainer
       center={[lat, lon]}
@@ -39,7 +31,7 @@ export function FortMiniMapInner({
       <Marker
         position={[lat, lon]}
         icon={createFortIcon(
-          { category, coordinateStatus: flagged ? "flagged" : "inside" },
+          { coordinateStatus: flagged ? "flagged" : "inside" },
           true,
         )}
         title={name}

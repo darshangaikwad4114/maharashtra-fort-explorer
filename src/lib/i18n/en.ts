@@ -1,46 +1,28 @@
 export const en = {
   "app.name": "Maharashtra Fort Explorer",
-  "app.tagline": "A field guide to the forts of Maharashtra",
   "nav.explorer": "Map",
-  "nav.circuits": "Trek circuits",
+  "nav.circuits": "Circuits",
   "nav.timeline": "Timeline",
-  "nav.data": "Data & sources",
+  "nav.data": "Data",
   "nav.favorites": "Favorites",
   "nav.menu": "Menu",
   "nav.about": "About",
 
-  "common.search": "Search",
   "common.clear": "Clear",
   "common.close": "Close",
-  "common.all": "All",
   "common.reset": "Reset",
-  "common.showMore": "Show more",
-  "common.learnMore": "Learn more",
-  "common.viewAll": "View all",
-  "common.forts": "forts",
-  "common.fort": "fort",
-  "common.km": "km",
-  "common.source": "Source",
-  "common.sources": "Sources",
-  "common.readMore": "Read more",
-  "common.back": "Back",
-  "common.optional": "optional",
   "common.newTab": "opens in a new tab",
 
-  "explorer.title": "Find your fort",
-  "explorer.subtitle":
-    "Every marker is a real record from the published fort catalogue. Filter, measure distances and open a profile.",
+  "explorer.title": "Forts",
   "explorer.searchPlaceholder": "Search by fort, alias or district…",
   "explorer.allDistricts": "All districts",
   "explorer.allCategories": "All types",
   "explorer.allDifficulties": "Any difficulty",
   "explorer.filters": "Filters",
-  "explorer.filtersActive": "filters active",
-  "explorer.curatedOnly": "Reviewed profiles only",
-  "explorer.showDisputed": "Show disputed locations",
+  "explorer.curatedOnly": "Reviewed only",
+  "explorer.showDisputed": "Disputed locations",
   "explorer.favoritesOnly": "Favorites only",
   "explorer.nearMe": "Near me",
-  "explorer.locating": "Finding your location…",
   "explorer.locationDenied":
     "Location is unavailable. Allow location access in your browser and try again.",
   "explorer.locationUnsupported":
@@ -50,8 +32,6 @@ export const en = {
   "explorer.results": "{count} forts",
   "explorer.resultsOne": "1 fort",
   "explorer.noResults": "No forts match these filters",
-  "explorer.noResultsHint":
-    "Try a different spelling, widen the district, or clear the filters.",
   "explorer.clearFilters": "Clear all filters",
   "explorer.sortBy": "Sort by",
   "explorer.sortName": "Name (A–Z)",
@@ -59,15 +39,8 @@ export const en = {
   "explorer.sortElevation": "Elevation (high to low)",
   "explorer.sortDistance": "Distance from me",
   "explorer.viewProfile": "Open profile",
-  "explorer.legend": "Map key",
-  "explorer.selectFort": "Select a fort on the map",
-  "explorer.selectHint":
-    "Tap any marker to see its profile, district and photos.",
   "explorer.mapLabel": "Map of forts in Maharashtra",
   "explorer.mapLoading": "Loading the map…",
-  "explorer.distanceFromYou": "{distance} from you",
-  "explorer.coverage": "{curated} reviewed profiles · {total} catalogued forts",
-  "explorer.coverageShort": "{total} catalogued forts · district filters · source-linked history",
   "explorer.filterDistrict": "District",
   "explorer.filterCategory": "Fort type",
   "explorer.filterDifficulty": "Difficulty",
@@ -84,14 +57,9 @@ export const en = {
 
   "status.curated": "Reviewed profile",
   "status.catalog": "Catalogue record",
-  "status.verified": "Verified",
-  "status.inside": "Inside district",
-  "status.nearest-boundary": "Assigned from nearest coast",
   "status.flagged": "Location disputed",
   "status.pending": "Not verified",
 
-  "fort.overview": "Overview",
-  "fort.history": "History",
   "fort.visit": "Planning a visit",
   "fort.gettingThere": "Getting there",
   "fort.facts": "At a glance",
@@ -105,66 +73,31 @@ export const en = {
   "fort.alsoKnown": "Also known as",
   "fort.coordinates": "Coordinates",
   "fort.nearby": "Nearby forts",
-  "fort.sources": "Sources & verification",
+  "fort.sources": "Sources",
   "fort.reviewed": "Reviewed",
-  "fort.photoCredit": "Photo",
   "fort.onMap": "View on the map",
   "fort.share": "Share",
   "fort.directions": "Directions",
   "fort.save": "Save",
   "fort.saved": "Saved",
-  "fort.notFound": "That fort could not be found",
-  "fort.notFoundBody":
-    "The link may be outdated or the fort is not in the published catalogue.",
   "fort.backToMap": "Back to the map",
-  "fort.dataStatus": "Record status",
-  "fort.catalogTitle": "Basic catalogue record",
   "fort.catalogBody":
-    "This fort comes from the published catalogue with a verified name, coordinate and district. History, trek difficulty and travel detail have not been reviewed yet, so we leave them blank instead of guessing.",
-  "fort.coordinateNote": "Location note",
-  "fort.disputedNotice":
-    "The recorded coordinate for this fort conflicts with published descriptions. Do not use it for navigation without independent verification.",
-  "fort.aboutData": "How this record was checked",
-  "fort.exploreArea": "Explore the area",
+    "This fort comes from the published catalogue with a verified name, coordinate and district. History, trek difficulty and travel detail have not been reviewed yet, so they are left blank instead of guessed.",
   "fort.shareCopied": "Link copied to the clipboard",
   "fort.shareText": "{name} — Maharashtra Fort Explorer",
-  "fort.minMap": "Location",
-  "fort.gallery": "Photograph",
   "fort.nearbyEmpty": "No other catalogued forts within 120 km.",
-  "fort.routeOnOsm": "Open in OpenStreetMap",
   "fort.bestMonths": "{from} to {to}",
-  "fort.factUnavailable": "Not recorded",
-  "fort.verifyNote": "Coordinates and district were checked against district boundaries.",
-  "fort.noPhoto": "No licensed photograph yet",
-  "fort.noPhotoHint":
-    "We only show images with a recorded author and licence. None is attached to this record yet.",
-  "fort.districtLink": "All forts in {district}",
   "fort.lastReviewed": "Reviewed {date}",
   "fort.locationWarningTitle": "Check the location before navigating",
-  "fort.methodTitle": "How this location was checked",
   "fort.methodInside": "The coordinate falls inside the district boundary.",
   "fort.methodCoast":
     "The coordinate sits offshore, so the district was assigned from the nearest coastline boundary.",
-  "fort.methodUnassigned":
-    "No district boundary contains this point; the district is unassigned.",
   "fort.methodFlagged":
     "Published descriptions conflict with this point, so the location is treated as disputed.",
   "fort.districtNote": "District note",
   "fort.sourcePending":
     "No detailed sources have been reviewed for this catalogue record yet. Its name, coordinate and district are the verified fields.",
-  "fort.verifiedBasics": "Verified name, coordinate and district",
-  "fort.profilePendingTitle": "Full profile pending",
-  "fort.editorialNote":
-    "Trek difficulty and best season are editorial guidance, not official ratings. Confirm conditions locally.",
-  "fort.nearbyHint": "Straight-line distances from this fort within 120 km.",
-  "fort.license": "Licence",
-  "fort.openInMaps": "Open in Google Maps",
-  "fort.allForts": "All forts",
   "fort.exploreDistrict": "Explore {district}",
-  "fort.state": "Maharashtra",
-  "fort.dataRecord": "Catalogue record",
-  "fort.coordHint": "Decimal degrees, WGS 84.",
-  "fort.onThisPage": "On this page",
   "fort.heritage.maratha": "Maratha",
   "fort.heritage.nizam_shahi": "Nizam Shahi",
   "fort.heritage.yadava": "Yadava",
@@ -174,61 +107,35 @@ export const en = {
   "fort.heritage.portuguese": "Portuguese",
   "fort.heritage.british": "British",
 
-  "circuits.title": "Trek circuits",
-  "circuits.days": "Suggested time",
-  "circuits.season": "Season",
-  "circuits.difficulty": "Overall difficulty",
-  "circuits.fortsOnRoute": "Forts on this route",
-  "circuits.planningNote": "Planning note",
+  "circuits.title": "Circuits",
   "circuits.openRoute": "Explore the route",
 
-  "timeline.title": "A fort timeline",
-  "timeline.subtitle":
-    "Selected documented events connected to forts in the catalogue. Each entry links to its source.",
-  "timeline.related": "Related forts",
-  "timeline.source": "Read the source",
-  "timeline.note":
-    "This is not a complete history. Dates follow the linked sources and may differ from other published accounts.",
+  "timeline.title": "Timeline",
+  "timeline.source": "Source",
 
-  "data.title": "Data, sources & limits",
-  "data.subtitle":
-    "What is verified, what is editorial, and where every record comes from.",
-  "data.catalogueTitle": "The catalogue",
+  "data.title": "Data",
+  "data.catalogueTitle": "Catalogue",
   "data.catalogueBody":
     "Names and coordinates come from the original community fort list bundled with this project. District assignment was recomputed against district boundary geometry, including coastal forts whose points sit offshore.",
   "data.curatedTitle": "Reviewed profiles",
   "data.curatedBody":
-    "Curated profiles add bilingual history, access and travel notes, a photograph and citations. Editorial judgements such as trek difficulty and best season are labelled as such and can be revised.",
-  "data.statusTitle": "Reading the status labels",
+    "Reviewed profiles add bilingual history, access and travel notes, a photograph and citations. Editorial judgements such as trek difficulty and best season are labelled as such and can be revised.",
+  "data.statusTitle": "Status labels",
   "data.statusBody":
     "A reviewed profile has checked content. A catalogue record has only a verified name, position and district. Disputed locations are shown on the map with a dashed ring and are excluded from navigation guidance.",
-  "data.sourcesTitle": "Sources & licensing",
-  "data.sourcesBody":
-    "Historical summaries cite Wikipedia articles linked on each profile. Photographs are downloaded from Wikimedia Commons with author, licence and source recorded. Map tiles are provided by OpenStreetMap contributors, OpenTopoMap and Esri.",
-  "data.legacyTitle": "Original project",
-  "data.legacyBody":
-    "The original Folium notebook map is preserved as a static file for comparison with the new explorer.",
-  "data.openLegacy": "Open the original Folium map",
-  "data.statsForks": "catalogued forts",
-  "data.statsCurated": "reviewed profiles",
-  "data.statsPhotos": "licensed photographs",
-  "data.statsDistricts": "districts represented",
-  "data.statsDisputed": "disputed coordinates",
-  "data.missingTitle": "What is still missing",
+  "data.sourcesTitle": "Sources",
+  "data.missingTitle": "What is missing",
   "data.missingBody":
     "Many forts still have no reviewed profile, no photograph, and no recorded elevation. We do not fill those gaps with generated text or invented numbers. Contributions should come with a citable source.",
-  "data.districtsTitle": "Coverage by district",
-  "data.districtsBody":
-    "Every catalogued fort is assigned to a district boundary. Counts include both reviewed profiles and catalogue records.",
-  "data.districtForts": "{count} forts",
-  "data.footerNote":
-    "Built as a static-first Next.js app. Supabase is optional and uses browser-safe credentials only.",
+  "data.districtsTitle": "Districts",
+  "data.statsForks": "Forts",
+  "data.statsCurated": "Reviewed",
+  "data.statsPhotos": "Photographs",
+  "data.statsDistricts": "Districts",
+  "data.statsDisputed": "Disputed",
 
-  "favorites.title": "Your saved forts",
-  "favorites.subtitle": "Saved on this device. Sign in to sync across devices.",
+  "favorites.title": "Saved forts",
   "favorites.empty": "Nothing saved yet",
-  "favorites.emptyBody":
-    "Tap the heart on any fort to keep it here for later. Saved forts work without a connection.",
   "favorites.signIn": "Sign in to sync",
   "favorites.offlineNote": "Saved forts remain available offline.",
   "favorites.count": "{count} saved",
@@ -236,8 +143,7 @@ export const en = {
   "favorites.loading": "Loading saved forts…",
 
   "auth.title": "Sync your favorites",
-  "auth.body":
-    "Enter an email address and we will send a magic link. No password is stored in this app.",
+  "auth.body": "Enter an email address and we will send a magic link.",
   "auth.email": "Email address",
   "auth.send": "Send magic link",
   "auth.sending": "Sending…",
@@ -249,50 +155,34 @@ export const en = {
   "auth.signedInAs": "Signed in as {email}",
   "auth.account": "Account",
   "auth.syncing": "Syncing favorites…",
-  "auth.syncError": "Could not sync favorites. They are still saved on this device.",
 
-  "footer.explore": "Explore",
-  "footer.data": "Project",
-  "footer.credit":
-    "Fort data and photographs are credited on each profile. Map data © OpenStreetMap contributors.",
-  "footer.offlineReady": "Works offline once visited",
-  "footer.developer": "Developer",
-  "footer.developerRole": "Design, build and data pipeline",
   "footer.portfolio": "Portfolio",
-  "footer.aboutLink": "About the developer",
-  "footer.stack": "Next.js · React · TypeScript · Tailwind CSS · Leaflet",
-  "footer.copyright":
-    "© {year} Maharashtra Fort Explorer. All rights reserved.",
-  "footer.builtBy": "Built by Darshan",
+  "footer.credit": "Map data © OpenStreetMap contributors",
 
-  "meta.homeTitle": "Maharashtra Fort Explorer — map, history and trek guides",
+  "meta.homeTitle": "Maharashtra Fort Explorer",
   "meta.homeDescription":
-    "Explore 237 geolocated forts across Maharashtra on an interactive map, with district filters, nearby forts, reviewed profiles and source-linked history.",
-  "meta.circuitsTitle": "Trek circuits",
+    "237 geolocated forts across Maharashtra on an interactive map, with district filters, nearby forts, reviewed profiles and source-linked history.",
+  "meta.circuitsTitle": "Circuits",
   "meta.circuitsDescription":
     "Editorial fort-to-fort trekking circuits across the Sahyadri, Konkan coast and Berar frontier.",
-  "meta.timelineTitle": "Fort timeline",
+  "meta.timelineTitle": "Timeline",
   "meta.timelineDescription":
     "Documented events from Maratha fort history, linked to source articles.",
-  "meta.dataTitle": "Data & sources",
+  "meta.dataTitle": "Data",
   "meta.dataDescription":
     "How the Maharashtra Fort Explorer catalogue was built, what is verified, and its licensing.",
-  "meta.aboutTitle": "About the developer",
+  "meta.aboutTitle": "About",
   "meta.aboutDescription":
     "Maharashtra Fort Explorer is designed and built by Darshan — project details, technology stack, data provenance and portfolio.",
 
-  "about.eyebrow": "About the developer",
   "about.title": "Built by Darshan",
   "about.intro":
     "Maharashtra Fort Explorer is designed, built and maintained by Darshan, a frontend and full-stack developer. The project pairs a verified fort catalogue with an interactive map, bilingual field notes and pages that keep working offline.",
-  "about.portfolioCta": "View portfolio",
-  "about.mapCta": "Open the map",
-  "about.projectTitle": "About the project",
+  "about.projectTitle": "The project",
   "about.projectBody":
     "A map-first field guide to 237 forts across Maharashtra, with district filters, nearby discovery, reviewed profiles, trek circuits, a sourced timeline and English–Marathi content. Coordinates and historical notes come from linked sources and are never generated at request time.",
-  "about.developerTitle": "Developer",
   "about.developerBody":
-    "Darshan designed and built this site end to end: the map explorer, the bilingual content system, the verified data pipeline and the production deployment. The portfolio below covers further work.",
+    "Darshan designed and built this site end to end: the map explorer, the bilingual content system, the verified data pipeline and the production deployment.",
 } as const;
 
 export type DictionaryKey = keyof typeof en;

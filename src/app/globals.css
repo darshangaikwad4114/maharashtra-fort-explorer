@@ -58,7 +58,6 @@
 
 :root {
   color-scheme: light;
-  --header-height: 4rem;
 }
 
 @layer base {
@@ -119,15 +118,14 @@ html[data-locale="mr"] [data-lang="en"] {
   display: none !important;
 }
 
-html[data-locale="mr"] h1,
-html[data-locale="mr"] h2,
-html[data-locale="mr"] h3,
-html[data-locale="mr"] h4,
 html[data-locale="mr"] body {
   font-family: var(--font-deva);
 }
 
-html[data-locale="mr"] body {
+html[data-locale="mr"] h1,
+html[data-locale="mr"] h2,
+html[data-locale="mr"] h3,
+html[data-locale="mr"] h4 {
   font-family: var(--font-deva);
 }
 
@@ -163,23 +161,16 @@ html[data-locale="mr"] .font-display {
   );
 }
 
-/* Subtle paper grain used behind hero and panels. */
-.paper-texture {
-  background-image:
-    radial-gradient(ellipse 60% 40% at 15% 0%, rgb(184 84 35 / 0.07), transparent 70%),
-    radial-gradient(ellipse 50% 40% at 90% 10%, rgb(52 80 63 / 0.08), transparent 70%),
-    radial-gradient(rgb(35 30 25 / 0.045) 1px, transparent 1px);
-  background-size: auto, auto, 22px 22px;
-}
-
-.ink-rule {
-  background-image: linear-gradient(
-    to right,
-    transparent,
-    var(--color-line-strong),
-    transparent
-  );
+.sr-only-focusable:not(:focus) {
+  position: absolute;
+  width: 1px;
   height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }
 
 /* Map */
@@ -217,36 +208,35 @@ html[data-locale="mr"] .font-display {
   background: var(--color-parchment) !important;
   color: var(--color-ink) !important;
   border-bottom-color: var(--color-line) !important;
-  width: 44px !important;
-  height: 44px !important;
-  line-height: 44px !important;
+  width: 40px !important;
+  height: 40px !important;
+  line-height: 40px !important;
 }
 
 .leaflet-bar a:hover {
   background: var(--color-parchment-deep) !important;
 }
 
-@media (max-width: 1023px) {
-  .explorer-map .leaflet-bottom.leaflet-right {
-    bottom: 96px;
-  }
-}
-
-.leaflet-popup-content-wrapper {
+.fort-tooltip {
   background: var(--color-parchment);
-  color: var(--color-ink);
-  border-radius: 12px;
-  box-shadow: var(--shadow-lift);
   border: 1px solid var(--color-line-strong);
+  border-radius: 10px;
+  box-shadow: var(--shadow-soft);
+  color: var(--color-ink);
+  font-size: 12px;
+  line-height: 1.35;
+  padding: 6px 10px;
 }
 
-.leaflet-popup-tip {
-  background: var(--color-parchment);
+.fort-tooltip::before {
+  border-top-color: var(--color-line-strong);
 }
 
-.leaflet-popup-content {
-  margin: 12px 14px;
-  line-height: 1.4;
+/* Keep the layer switcher below the floating search bar on phones. */
+@media (max-width: 1023px) {
+  .leaflet-top.leaflet-right {
+    top: 4.5rem;
+  }
 }
 
 /* Custom markers */
@@ -284,7 +274,7 @@ html[data-locale="mr"] .font-display {
 
 .fort-pin--selected .fort-pin__dot {
   transform: rotate(-45deg) scale(1.25);
-  box-shadow: 0 0 0 4px rgb(184 84 35 / 0.25), 0 4px 12px rgb(35 30 25 / 0.4);
+  box-shadow: 0 0 0 4px rgb(169 74 29 / 0.25), 0 4px 12px rgb(35 30 25 / 0.4);
 }
 
 .fort-pin--disputed .fort-pin__dot {
@@ -320,26 +310,6 @@ html[data-locale="mr"] .font-display {
 
 .map-tile-topo {
   filter: saturate(0.82) contrast(1.02);
-}
-
-/* Keep the layer switcher below the floating search panel on phones. */
-@media (max-width: 1023px) {
-  .leaflet-top.leaflet-right {
-    top: 7rem;
-  }
-}
-
-/* Small utility for visually hidden content */
-.sr-only-focusable:not(:focus) {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  white-space: nowrap;
-  border: 0;
 }
 
 @keyframes slide-in-right {

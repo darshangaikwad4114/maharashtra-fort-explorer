@@ -35,21 +35,9 @@ export default function GlobalError({
       >
         <title>Something went wrong · Maharashtra Fort Explorer</title>
         <main style={{ maxWidth: "520px", width: "100%" }}>
-          <p
-            style={{
-              margin: 0,
-              fontSize: "11px",
-              letterSpacing: "0.18em",
-              textTransform: "uppercase",
-              fontWeight: 700,
-              color: "#b85423",
-            }}
-          >
-            Maharashtra Fort Explorer
-          </p>
           <h1
             style={{
-              margin: "10px 0 0",
+              margin: 0,
               fontFamily: 'Georgia, "Times New Roman", serif',
               fontSize: "32px",
               lineHeight: 1.1,
@@ -58,12 +46,6 @@ export default function GlobalError({
           >
             Something went wrong
           </h1>
-          <p style={{ marginTop: "12px", fontSize: "15px", lineHeight: 1.6, color: "#4b4237" }}>
-            The page could not be rendered. Try again, or return to the map.
-          </p>
-          <p style={{ marginTop: "6px", fontSize: "14px", lineHeight: 1.6, color: "#7c7164" }}>
-            पृष्ठ दाखवता आले नाही. पुन्हा प्रयत्न करा किंवा नकाशावर परत जा.
-          </p>
           {digest ? (
             <p style={{ marginTop: "10px", fontSize: "12px", color: "#7c7164" }}>
               Reference: {digest}

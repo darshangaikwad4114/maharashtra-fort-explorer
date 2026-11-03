@@ -19,7 +19,6 @@ import "leaflet.markercluster";
 import {
   createClusterIcon,
   createFortIcon,
-  fortDisplayName,
   fortTooltip,
 } from "@/components/explorer/map-icons";
 import type { Locale } from "@/lib/i18n";
@@ -439,5 +438,3 @@ function UserMarker({
     </>
   );
 }
-
-export { fortDisplayName };

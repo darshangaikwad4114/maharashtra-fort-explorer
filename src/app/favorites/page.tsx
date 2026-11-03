@@ -6,7 +6,6 @@ import { translate } from "@/lib/i18n";
 
 export const metadata: Metadata = {
   title: translate("en", "favorites.title"),
-  description: translate("en", "favorites.subtitle"),
   alternates: { canonical: "/favorites" },
   robots: { index: false, follow: true },
 };
